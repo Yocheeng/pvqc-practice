@@ -1,0 +1,8 @@
+{
+  "source_rows": 645,
+  "case_sensitive_unique": 645,
+  "chinese_meanings": 605,
+  "checks": 130,
+  "passed": true,
+  "scope": "Six-gate behavior and audio sequence with simulated speech engine; browser UI checked separately. Real audio quality and formal exam rules unverified."
+}

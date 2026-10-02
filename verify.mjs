@@ -21,6 +21,7 @@ function environment(saved=new Map()){
   const term=decode(html.match(/<div class="term">([^<]*)<\/div>/)?.[1]||'');
   const spoken=w=>/^[A-Z0-9]{2,8}$/.test(w.english)?w.english.split('').join(' '):w.english;
   let word=g===1||g===5?course.words.find(w=>w.chinese===term):course.words.find(w=>w.english===term);
+  if(g===1){const length=Number(html.match(/共 (\d+) 個字元/)?.[1]);word=course.words.find(w=>w.chinese===term&&w.english.length===length);}
   if(g===3||g===4)word=course.words.find(w=>spoken(w)===utterances.at(-1)?.text);
   if(g===5||g===6){while(utterances.at(-1)?.onend&&utterances.length<4)utterances.at(-1).onend();if(g===5)word=course.words.find(w=>w.chinese===term&&utterances.some(u=>u.text===spoken(w)));}
   const choices=[...html.matchAll(/data-answer="(\d)"[^>]*><span class="option-letter">\d<\/span>([^<]*)<\/button>/g)].map(m=>({index:Number(m[1])+1,text:decode(m[2])}));
@@ -55,7 +56,7 @@ reopened.click({action:'next'});ok(reopened.get('activity').innerHTML.includes('
 const continuous=environment();continuous.click({action:'continuous'});
 for(let gate=1;gate<=6;gate++){
  ok(continuous.call('read_practice_state').gate===gate,'Continuous mode gate order');
- for(let n=0;n<10;n++){const q=continuous.current();const result=continuous.call('submit_pvqc_answer',gate===1?{spelling:q.word.english}:{choice:q.choice});ok(result.correct,'Continuous answer accepted');continuous.click({action:'next'});}
+ for(let n=0;n<10;n++){const q=continuous.current();const result=continuous.call('submit_pvqc_answer',gate===1?{spelling:q.word.english}:{choice:q.choice});ok(result.correct,'Continuous answer accepted gate '+gate+' question '+(n+1)+' word '+q.word.english);continuous.click({action:'next'});}
  ok(continuous.get('activity').innerHTML.includes('本關練習完成'),'Gate completion visible');
  if(gate<6)continuous.click({action:'next-gate'});
 }
