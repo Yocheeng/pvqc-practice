@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PVQC 計算機練習室｜六關詞彙練習</title>
+<meta name="description" content="使用自己的計算機課程題庫，練習 PVQC 六種詞彙題型：拼字、閱讀與聽力。">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230c4c42'/%3E%3Cpath d='M9 24V8h8a6 6 0 010 12h-4v4zm4-8h4a2 2 0 000-4h-4z' fill='white'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<aside class="sidebar"><a class="brand" href="./"><span class="brand-mark">P<span>✓</span></span><span>PVQC<span class="brand-sub">練習室</span></span></a>
+<div class="domain-label">計算機 COMPUTING</div><nav aria-label="學習區"><button class="nav-item active" data-view="home" aria-current="page"><span aria-hidden="true">◎</span> 六關練習</button><button class="nav-item" data-view="bank"><span aria-hidden="true">▤</span> 我的題庫</button><button class="nav-item" data-view="mistakes"><span aria-hidden="true">↺</span> 錯題複習 <span id="mistake-count" class="nav-count">0</span></button></nav>
+<div class="sidebar-foot"><div class="little-rule"></div><p>用自己的題庫，練到熟悉。</p><span>計算機 · 六種測驗題型</span></div></aside>
+<main><header class="topbar"><span>我的學習 / <strong id="breadcrumb">六關練習</strong></span><span class="demo-tag">自主練習 · 非官方測驗</span></header>
+<div class="workspace"><div class="title-row"><div><p class="eyebrow">COMPUTING VOCABULARY</p><h1 id="page-title">六關練習</h1><p id="page-description">同一份詞彙，練習六種看字與聽音能力。</p></div><div class="bank-number"><strong id="bank-total">0</strong><span>題庫詞彙</span></div></div>
+<section id="activity" aria-label="練習內容"><div class="empty"><h2>先加入你的課程題庫</h2><p>使用計算機課程的中英詞彙，開始六關練習。</p><button class="primary" data-view="bank">加入題庫</button></div></section>
+<footer class="workspace-foot"><span>選項由你的詞彙清單產生 · 聽力使用瀏覽器語音</span><a href="https://system.jyic.net/PVQC/L-SOP.pdf" target="_blank" rel="noopener">六種題型的測評說明</a></footer></div></main>
+<div id="status-message" role="status" aria-live="polite"></div>
+<script src="course-data.js" defer></script><script src="app.js" defer></script>
+</body></html>

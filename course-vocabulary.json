@@ -1,0 +1,3878 @@
+{
+  "name": "計算機－應用（你的課程題庫）",
+  "source": "使用者提供的計算機－應用詞彙清單",
+  "count": 645,
+  "source_sha256": "c7c2f523354a5b6a623b24c5081f957fdd48b10d7b2b5214f4c44a169d638906",
+  "words": [
+    {
+      "id": 1,
+      "english": "information",
+      "chinese": "資訊",
+      "pos": "n."
+    },
+    {
+      "id": 2,
+      "english": "log off",
+      "chinese": "登出",
+      "pos": "v./phr."
+    },
+    {
+      "id": 3,
+      "english": "customization",
+      "chinese": "客製化",
+      "pos": "n."
+    },
+    {
+      "id": 4,
+      "english": "distributed",
+      "chinese": "分散式",
+      "pos": "adj."
+    },
+    {
+      "id": 5,
+      "english": "visualization",
+      "chinese": "視覺化",
+      "pos": "n."
+    },
+    {
+      "id": 6,
+      "english": "back up data",
+      "chinese": "備份資料",
+      "pos": "v./phr."
+    },
+    {
+      "id": 7,
+      "english": "Windows",
+      "chinese": "微軟公司開發的作業系統",
+      "pos": "n."
+    },
+    {
+      "id": 8,
+      "english": "outsourcing",
+      "chinese": "外包",
+      "pos": "n."
+    },
+    {
+      "id": 9,
+      "english": "ES",
+      "chinese": "專家系統",
+      "pos": "n."
+    },
+    {
+      "id": 10,
+      "english": "geographic information system",
+      "chinese": "地理資訊系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 11,
+      "english": "method",
+      "chinese": "方法",
+      "pos": "n."
+    },
+    {
+      "id": 12,
+      "english": "distributed processing",
+      "chinese": "分散式處理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 13,
+      "english": "desktop computer",
+      "chinese": "桌上電腦",
+      "pos": "n./phr."
+    },
+    {
+      "id": 14,
+      "english": "SRAM",
+      "chinese": "靜態隨機存取記憶體（英文簡稱）(全文:Static Random Access Memory)",
+      "pos": "n."
+    },
+    {
+      "id": 15,
+      "english": "telnet",
+      "chinese": "遠端登入",
+      "pos": "n."
+    },
+    {
+      "id": 16,
+      "english": "printer",
+      "chinese": "印表機",
+      "pos": "n."
+    },
+    {
+      "id": 17,
+      "english": "MAN",
+      "chinese": "都會網路（英文簡稱）",
+      "pos": "n."
+    },
+    {
+      "id": 18,
+      "english": "cyber",
+      "chinese": "網路的",
+      "pos": "adj."
+    },
+    {
+      "id": 19,
+      "english": "Line",
+      "chinese": "在線（通訊服務）",
+      "pos": "n."
+    },
+    {
+      "id": 20,
+      "english": "Nokia",
+      "chinese": "諾基亞",
+      "pos": "n."
+    },
+    {
+      "id": 21,
+      "english": "DSS",
+      "chinese": "決策支援系統",
+      "pos": "n."
+    },
+    {
+      "id": 22,
+      "english": "data",
+      "chinese": "資料",
+      "pos": "n."
+    },
+    {
+      "id": 23,
+      "english": "TCP/IP",
+      "chinese": "傳輸控制協定/網路協定 (全文:Transmission Control Protocol / Internet Protocol)",
+      "pos": "n."
+    },
+    {
+      "id": 24,
+      "english": "nanosecond",
+      "chinese": "奈秒",
+      "pos": "n."
+    },
+    {
+      "id": 25,
+      "english": "replication",
+      "chinese": "複製；同步複寫",
+      "pos": "n."
+    },
+    {
+      "id": 26,
+      "english": "digital signal",
+      "chinese": "數位信號",
+      "pos": "n./phr."
+    },
+    {
+      "id": 27,
+      "english": "domestic exporter",
+      "chinese": "(國內的）出口商",
+      "pos": "n./phr."
+    },
+    {
+      "id": 28,
+      "english": "vector",
+      "chinese": "向量",
+      "pos": "n."
+    },
+    {
+      "id": 29,
+      "english": "menu",
+      "chinese": "功能表",
+      "pos": "n."
+    },
+    {
+      "id": 30,
+      "english": "key word",
+      "chinese": "關鍵字",
+      "pos": "n./phr."
+    },
+    {
+      "id": 31,
+      "english": "hub",
+      "chinese": "集線器",
+      "pos": "n."
+    },
+    {
+      "id": 32,
+      "english": "conversion",
+      "chinese": "轉換",
+      "pos": "n."
+    },
+    {
+      "id": 33,
+      "english": "switch",
+      "chinese": "交換器",
+      "pos": "n."
+    },
+    {
+      "id": 34,
+      "english": "OSI",
+      "chinese": "開放式系統互聯（英文簡稱）(全文:Open Systems Interconnection)",
+      "pos": "n."
+    },
+    {
+      "id": 35,
+      "english": "autocomplete",
+      "chinese": "自動完成",
+      "pos": "n."
+    },
+    {
+      "id": 36,
+      "english": "computer-aided design",
+      "chinese": "電腦輔助設計",
+      "pos": "n./phr."
+    },
+    {
+      "id": 37,
+      "english": "logical partition",
+      "chinese": "邏輯分割區",
+      "pos": "n./phr."
+    },
+    {
+      "id": 38,
+      "english": "OSI model",
+      "chinese": "開放式系統互聯模式",
+      "pos": "n./phr."
+    },
+    {
+      "id": 39,
+      "english": "critical thinking",
+      "chinese": "批判性思考",
+      "pos": "n./phr."
+    },
+    {
+      "id": 40,
+      "english": "NIC",
+      "chinese": "網路卡",
+      "pos": "n."
+    },
+    {
+      "id": 41,
+      "english": "random access memory",
+      "chinese": "隨機存取記憶體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 42,
+      "english": "algorithm",
+      "chinese": "演算法",
+      "pos": "n."
+    },
+    {
+      "id": 43,
+      "english": "decryption",
+      "chinese": "解密",
+      "pos": "n."
+    },
+    {
+      "id": 44,
+      "english": "GUI",
+      "chinese": "圖形化使用介面",
+      "pos": "n."
+    },
+    {
+      "id": 45,
+      "english": "adware",
+      "chinese": "廣告軟體",
+      "pos": "n."
+    },
+    {
+      "id": 46,
+      "english": "data integration",
+      "chinese": "資料整合",
+      "pos": "n./phr."
+    },
+    {
+      "id": 47,
+      "english": "SET",
+      "chinese": "安全電子交易（英文簡稱）(全文:Secure Electronic Transaction)",
+      "pos": "n."
+    },
+    {
+      "id": 48,
+      "english": "IS",
+      "chinese": "資訊系統",
+      "pos": "n."
+    },
+    {
+      "id": 49,
+      "english": "dashboard",
+      "chinese": "儀錶板",
+      "pos": "n."
+    },
+    {
+      "id": 50,
+      "english": "laser printer",
+      "chinese": "雷射印表機",
+      "pos": "n./phr."
+    },
+    {
+      "id": 51,
+      "english": "network terminal",
+      "chinese": "網路終端機",
+      "pos": "n./phr."
+    },
+    {
+      "id": 52,
+      "english": "OA",
+      "chinese": "辦公室自動化（英文簡稱）(全文:Office Automation)",
+      "pos": "n."
+    },
+    {
+      "id": 53,
+      "english": "DBA",
+      "chinese": "資料庫管理員",
+      "pos": "n."
+    },
+    {
+      "id": 54,
+      "english": "IP",
+      "chinese": "網際網路協定",
+      "pos": "n."
+    },
+    {
+      "id": 55,
+      "english": "co-location",
+      "chinese": "主機代管",
+      "pos": "n./phr."
+    },
+    {
+      "id": 56,
+      "english": "analog",
+      "chinese": "類比",
+      "pos": "adj./n."
+    },
+    {
+      "id": 57,
+      "english": "HTML",
+      "chinese": "超文字標記語言",
+      "pos": "n."
+    },
+    {
+      "id": 58,
+      "english": "CRM",
+      "chinese": "顧客關係管理",
+      "pos": "n."
+    },
+    {
+      "id": 59,
+      "english": "instant messaging",
+      "chinese": "即時通訊",
+      "pos": "n./phr."
+    },
+    {
+      "id": 60,
+      "english": "light emitting diode",
+      "chinese": "發光二極體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 61,
+      "english": "bandwidth",
+      "chinese": "頻寬",
+      "pos": "n."
+    },
+    {
+      "id": 62,
+      "english": "user name",
+      "chinese": "用戶名稱",
+      "pos": "n./phr."
+    },
+    {
+      "id": 63,
+      "english": "project",
+      "chinese": "專案",
+      "pos": "n./v."
+    },
+    {
+      "id": 64,
+      "english": "pages per minute",
+      "chinese": "每分鐘列印的頁數",
+      "pos": "n./phr."
+    },
+    {
+      "id": 65,
+      "english": "property",
+      "chinese": "財產",
+      "pos": "n."
+    },
+    {
+      "id": 66,
+      "english": "sizing handles",
+      "chinese": "尺寸（大小）控點",
+      "pos": "n./phr."
+    },
+    {
+      "id": 67,
+      "english": "multiplexer",
+      "chinese": "多工器",
+      "pos": "n."
+    },
+    {
+      "id": 68,
+      "english": "OU",
+      "chinese": "輸出單元（英文簡稱）(全文:Output Unit)",
+      "pos": "n."
+    },
+    {
+      "id": 69,
+      "english": "medium",
+      "chinese": "媒體",
+      "pos": "adj./n."
+    },
+    {
+      "id": 70,
+      "english": "e-book",
+      "chinese": "電子書",
+      "pos": "n."
+    },
+    {
+      "id": 71,
+      "english": "data flow diagram",
+      "chinese": "資料流程圖",
+      "pos": "n./phr."
+    },
+    {
+      "id": 72,
+      "english": "line interactive",
+      "chinese": "在線互動式",
+      "pos": "adj./phr."
+    },
+    {
+      "id": 73,
+      "english": "input device",
+      "chinese": "輸入設備",
+      "pos": "n./phr."
+    },
+    {
+      "id": 74,
+      "english": "communication",
+      "chinese": "通訊",
+      "pos": "n."
+    },
+    {
+      "id": 75,
+      "english": "cache memory",
+      "chinese": "快取記憶體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 76,
+      "english": "FTP",
+      "chinese": "檔案傳輸協定",
+      "pos": "n."
+    },
+    {
+      "id": 77,
+      "english": "relational database",
+      "chinese": "關聯式資料庫",
+      "pos": "n./phr."
+    },
+    {
+      "id": 78,
+      "english": "ASUS",
+      "chinese": "華碩",
+      "pos": "n."
+    },
+    {
+      "id": 79,
+      "english": "clone computer",
+      "chinese": "克隆電腦",
+      "pos": "n./phr."
+    },
+    {
+      "id": 80,
+      "english": "NAT",
+      "chinese": "網路位址轉換（英文簡稱）(全文:Network Address Translation)",
+      "pos": "n."
+    },
+    {
+      "id": 81,
+      "english": "normalization",
+      "chinese": "正規化",
+      "pos": "n."
+    },
+    {
+      "id": 82,
+      "english": "microsecond",
+      "chinese": "微秒",
+      "pos": "n."
+    },
+    {
+      "id": 83,
+      "english": "quick response code",
+      "chinese": "快速反應碼",
+      "pos": "n./phr."
+    },
+    {
+      "id": 84,
+      "english": "ASP",
+      "chinese": "應用服務供應商",
+      "pos": "n."
+    },
+    {
+      "id": 85,
+      "english": "executive",
+      "chinese": "行政主管",
+      "pos": "n."
+    },
+    {
+      "id": 86,
+      "english": "duplication",
+      "chinese": "複製",
+      "pos": "n."
+    },
+    {
+      "id": 87,
+      "english": "read-only memory",
+      "chinese": "唯讀記憶體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 88,
+      "english": "data-driven",
+      "chinese": "資料導向",
+      "pos": "n./phr."
+    },
+    {
+      "id": 89,
+      "english": "authority",
+      "chinese": "權威",
+      "pos": "n."
+    },
+    {
+      "id": 90,
+      "english": "digital video disc",
+      "chinese": "數位影音光碟（DVD)",
+      "pos": "n./phr."
+    },
+    {
+      "id": 91,
+      "english": "content management",
+      "chinese": "內容管理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 92,
+      "english": "open standard",
+      "chinese": "開放式標準",
+      "pos": "adj./phr."
+    },
+    {
+      "id": 93,
+      "english": "operating system",
+      "chinese": "作業系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 94,
+      "english": "YouTube",
+      "chinese": "一種手機與電腦皆可連線的專門放影片的軟體",
+      "pos": "n."
+    },
+    {
+      "id": 95,
+      "english": "Bluetooth",
+      "chinese": "藍牙",
+      "pos": "n."
+    },
+    {
+      "id": 96,
+      "english": "debug",
+      "chinese": "除錯；偵錯",
+      "pos": "v./n."
+    },
+    {
+      "id": 97,
+      "english": "data center",
+      "chinese": "資訊中心",
+      "pos": "n./phr."
+    },
+    {
+      "id": 98,
+      "english": "operation",
+      "chinese": "營運",
+      "pos": "n."
+    },
+    {
+      "id": 99,
+      "english": "mouse",
+      "chinese": "滑鼠",
+      "pos": "n."
+    },
+    {
+      "id": 100,
+      "english": "node",
+      "chinese": "節點",
+      "pos": "n."
+    },
+    {
+      "id": 101,
+      "english": "drill down",
+      "chinese": "向下探究",
+      "pos": "v./phr."
+    },
+    {
+      "id": 102,
+      "english": "executable code",
+      "chinese": "可執行碼",
+      "pos": "n./phr."
+    },
+    {
+      "id": 103,
+      "english": "central processing unit",
+      "chinese": "中央處理單元",
+      "pos": "n./phr."
+    },
+    {
+      "id": 104,
+      "english": "content",
+      "chinese": "內容",
+      "pos": "n."
+    },
+    {
+      "id": 105,
+      "english": "flowchart",
+      "chinese": "流程圖",
+      "pos": "n."
+    },
+    {
+      "id": 106,
+      "english": "EPS",
+      "chinese": "電子付費服務",
+      "pos": "n."
+    },
+    {
+      "id": 107,
+      "english": "ROM",
+      "chinese": "唯讀記憶體（英文簡稱）(全文:Read-Only Memory)",
+      "pos": "n."
+    },
+    {
+      "id": 108,
+      "english": "record",
+      "chinese": "紀錄",
+      "pos": "n./v."
+    },
+    {
+      "id": 109,
+      "english": "spreadsheet software",
+      "chinese": "試算表軟體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 110,
+      "english": "network address translation",
+      "chinese": "網路位址轉換",
+      "pos": "n./phr."
+    },
+    {
+      "id": 111,
+      "english": "motherboard",
+      "chinese": "主機板",
+      "pos": "n."
+    },
+    {
+      "id": 112,
+      "english": "ICT",
+      "chinese": "資訊與網路通訊科技",
+      "pos": "n."
+    },
+    {
+      "id": 113,
+      "english": "IM",
+      "chinese": "即時通訊",
+      "pos": "n."
+    },
+    {
+      "id": 114,
+      "english": "AI",
+      "chinese": "人工智慧",
+      "pos": "n."
+    },
+    {
+      "id": 115,
+      "english": "microphone",
+      "chinese": "麥克風",
+      "pos": "n."
+    },
+    {
+      "id": 116,
+      "english": "DNS",
+      "chinese": "網域名稱系統",
+      "pos": "n."
+    },
+    {
+      "id": 117,
+      "english": "administrator",
+      "chinese": "管理員",
+      "pos": "n."
+    },
+    {
+      "id": 118,
+      "english": "data definition",
+      "chinese": "資料定義",
+      "pos": "n./phr."
+    },
+    {
+      "id": 119,
+      "english": "personal computer",
+      "chinese": "個人電腦",
+      "pos": "n./phr."
+    },
+    {
+      "id": 120,
+      "english": "online transaction",
+      "chinese": "線上交易",
+      "pos": "n./phr."
+    },
+    {
+      "id": 121,
+      "english": "hyperlink",
+      "chinese": "超連結",
+      "pos": "n."
+    },
+    {
+      "id": 122,
+      "english": "gigahertz",
+      "chinese": "十億赫茲",
+      "pos": "n."
+    },
+    {
+      "id": 123,
+      "english": "diagram",
+      "chinese": "圖表",
+      "pos": "n."
+    },
+    {
+      "id": 124,
+      "english": "ERP",
+      "chinese": "企業資源規劃",
+      "pos": "n."
+    },
+    {
+      "id": 125,
+      "english": "detection system",
+      "chinese": "偵測系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 126,
+      "english": "gateway",
+      "chinese": "閘道器",
+      "pos": "n."
+    },
+    {
+      "id": 127,
+      "english": "core",
+      "chinese": "核心",
+      "pos": "n."
+    },
+    {
+      "id": 128,
+      "english": "true",
+      "chinese": "真；正確",
+      "pos": "adj."
+    },
+    {
+      "id": 129,
+      "english": "Intel",
+      "chinese": "英特爾（公司名）",
+      "pos": "n."
+    },
+    {
+      "id": 130,
+      "english": "telecommunication media",
+      "chinese": "電信通訊媒介",
+      "pos": "n./phr."
+    },
+    {
+      "id": 131,
+      "english": "OLTP",
+      "chinese": "線上交易處理（英文簡稱）(全文:Online Transaction Processing)",
+      "pos": "n."
+    },
+    {
+      "id": 132,
+      "english": "link",
+      "chinese": "連結",
+      "pos": "n./v."
+    },
+    {
+      "id": 133,
+      "english": "disruptive",
+      "chinese": "破壞性的",
+      "pos": "adj."
+    },
+    {
+      "id": 134,
+      "english": "kilohertz",
+      "chinese": "千赫茲",
+      "pos": "n."
+    },
+    {
+      "id": 135,
+      "english": "worm",
+      "chinese": "蠕蟲",
+      "pos": "n."
+    },
+    {
+      "id": 136,
+      "english": "firewall",
+      "chinese": "防火牆",
+      "pos": "n."
+    },
+    {
+      "id": 137,
+      "english": "SCSI",
+      "chinese": "小型電腦系統介面（英文簡稱）(全文:Small Computer System Interface)",
+      "pos": "n."
+    },
+    {
+      "id": 138,
+      "english": "laptop",
+      "chinese": "膝上型電腦",
+      "pos": "n."
+    },
+    {
+      "id": 139,
+      "english": "HDMI",
+      "chinese": "高清晰度多媒體介面",
+      "pos": "n."
+    },
+    {
+      "id": 140,
+      "english": "electronic signature",
+      "chinese": "電子簽章",
+      "pos": "n./phr."
+    },
+    {
+      "id": 141,
+      "english": "wireless",
+      "chinese": "無線",
+      "pos": "adj./n."
+    },
+    {
+      "id": 142,
+      "english": "disaster",
+      "chinese": "災難",
+      "pos": "n."
+    },
+    {
+      "id": 143,
+      "english": "DDoS",
+      "chinese": "分裂式阻斷服務",
+      "pos": "n."
+    },
+    {
+      "id": 144,
+      "english": "browser",
+      "chinese": "瀏覽器",
+      "pos": "n."
+    },
+    {
+      "id": 145,
+      "english": "function",
+      "chinese": "函數",
+      "pos": "n."
+    },
+    {
+      "id": 146,
+      "english": "direct",
+      "chinese": "直接的",
+      "pos": "adj."
+    },
+    {
+      "id": 147,
+      "english": "private key",
+      "chinese": "私密金鑰",
+      "pos": "n./phr."
+    },
+    {
+      "id": 148,
+      "english": "certificate",
+      "chinese": "憑證",
+      "pos": "n."
+    },
+    {
+      "id": 149,
+      "english": "digital content",
+      "chinese": "數位內容",
+      "pos": "n./phr."
+    },
+    {
+      "id": 150,
+      "english": "option button",
+      "chinese": "選項按鈕",
+      "pos": "n./phr."
+    },
+    {
+      "id": 151,
+      "english": "intangible",
+      "chinese": "無形的",
+      "pos": "adj."
+    },
+    {
+      "id": 152,
+      "english": "field",
+      "chinese": "欄位或區域",
+      "pos": "n."
+    },
+    {
+      "id": 153,
+      "english": "software",
+      "chinese": "軟體",
+      "pos": "n."
+    },
+    {
+      "id": 154,
+      "english": "technology",
+      "chinese": "科技",
+      "pos": "n."
+    },
+    {
+      "id": 155,
+      "english": "RFID",
+      "chinese": "無線（電）辨識（英文簡稱）(全文:Radio Frequency Identification)",
+      "pos": "n."
+    },
+    {
+      "id": 156,
+      "english": "requirement",
+      "chinese": "需求",
+      "pos": "n."
+    },
+    {
+      "id": 157,
+      "english": "PC",
+      "chinese": "個人電腦",
+      "pos": "n."
+    },
+    {
+      "id": 158,
+      "english": "upload",
+      "chinese": "上傳",
+      "pos": "n./v."
+    },
+    {
+      "id": 159,
+      "english": "IEEE",
+      "chinese": "國際電機電子工程協會",
+      "pos": "n."
+    },
+    {
+      "id": 160,
+      "english": "ring",
+      "chinese": "環狀",
+      "pos": "n."
+    },
+    {
+      "id": 161,
+      "english": "chief information officer",
+      "chinese": "資訊長",
+      "pos": "n./phr."
+    },
+    {
+      "id": 162,
+      "english": "GHz",
+      "chinese": "十億赫茲",
+      "pos": "n."
+    },
+    {
+      "id": 163,
+      "english": "hypertext markup language",
+      "chinese": "超文字標記語言",
+      "pos": "n./phr."
+    },
+    {
+      "id": 164,
+      "english": "pseudo code",
+      "chinese": "虛擬碼",
+      "pos": "n./phr."
+    },
+    {
+      "id": 165,
+      "english": "N-tier client-server architecture",
+      "chinese": "多層次主從式架構",
+      "pos": "n./phr."
+    },
+    {
+      "id": 166,
+      "english": "VOD",
+      "chinese": "隨選視訊系統（英文簡稱）(全文:Video On Demand)",
+      "pos": "n."
+    },
+    {
+      "id": 167,
+      "english": "file type",
+      "chinese": "檔案類型",
+      "pos": "n./phr."
+    },
+    {
+      "id": 168,
+      "english": "manipulation",
+      "chinese": "處理",
+      "pos": "n."
+    },
+    {
+      "id": 169,
+      "english": "computer crime",
+      "chinese": "電腦犯罪",
+      "pos": "n./phr."
+    },
+    {
+      "id": 170,
+      "english": "broadcast",
+      "chinese": "廣播",
+      "pos": "n./v."
+    },
+    {
+      "id": 171,
+      "english": "open system",
+      "chinese": "開放式系統",
+      "pos": "adj./phr."
+    },
+    {
+      "id": 172,
+      "english": "B2G",
+      "chinese": "企業對政府之間的相互交易",
+      "pos": "n."
+    },
+    {
+      "id": 173,
+      "english": "patch",
+      "chinese": "(軟體）修補",
+      "pos": "n./v."
+    },
+    {
+      "id": 174,
+      "english": "memory",
+      "chinese": "記憶體",
+      "pos": "n."
+    },
+    {
+      "id": 175,
+      "english": "VoIP",
+      "chinese": "透過IP做語音傳送（英文簡稱）(全文:Voice over Internet Protocol)",
+      "pos": "n."
+    },
+    {
+      "id": 176,
+      "english": "quick sort",
+      "chinese": "快速排序法",
+      "pos": "n./phr."
+    },
+    {
+      "id": 177,
+      "english": "process",
+      "chinese": "過程；處理",
+      "pos": "n./v."
+    },
+    {
+      "id": 178,
+      "english": "label",
+      "chinese": "標籤",
+      "pos": "n./v."
+    },
+    {
+      "id": 179,
+      "english": "malicious program",
+      "chinese": "惡意程式",
+      "pos": "n./phr."
+    },
+    {
+      "id": 180,
+      "english": "PCI",
+      "chinese": "周邊元件互聯（擴充槽）（英文簡稱）(全文:Peripheral Component Interconnect)",
+      "pos": "n."
+    },
+    {
+      "id": 181,
+      "english": "autosum",
+      "chinese": "自動加總",
+      "pos": "n."
+    },
+    {
+      "id": 182,
+      "english": "hacker",
+      "chinese": "駭客",
+      "pos": "n."
+    },
+    {
+      "id": 183,
+      "english": "cache",
+      "chinese": "快取",
+      "pos": "n."
+    },
+    {
+      "id": 184,
+      "english": "relationship",
+      "chinese": "關係",
+      "pos": "n."
+    },
+    {
+      "id": 185,
+      "english": "open source",
+      "chinese": "開放原始（碼）",
+      "pos": "adj./phr."
+    },
+    {
+      "id": 186,
+      "english": "secure electronic transactions",
+      "chinese": "安全電子交易",
+      "pos": "n./phr."
+    },
+    {
+      "id": 187,
+      "english": "SDRAM",
+      "chinese": "同步動態隨機存取記憶體（英文簡稱）(全文:Synchronous Dynamic Random Access Memory)",
+      "pos": "n."
+    },
+    {
+      "id": 188,
+      "english": "computer-assisted instruction",
+      "chinese": "電腦輔助教學",
+      "pos": "n./phr."
+    },
+    {
+      "id": 189,
+      "english": "e-mail",
+      "chinese": "電子郵件",
+      "pos": "n."
+    },
+    {
+      "id": 190,
+      "english": "Apple",
+      "chinese": "蘋果",
+      "pos": "n."
+    },
+    {
+      "id": 191,
+      "english": "DOS",
+      "chinese": "磁片作業系統",
+      "pos": "n."
+    },
+    {
+      "id": 192,
+      "english": "jumper",
+      "chinese": "跳線",
+      "pos": "n."
+    },
+    {
+      "id": 193,
+      "english": "intelligence",
+      "chinese": "智慧",
+      "pos": "n."
+    },
+    {
+      "id": 194,
+      "english": "revenue model",
+      "chinese": "獲利模式",
+      "pos": "n./phr."
+    },
+    {
+      "id": 195,
+      "english": "object",
+      "chinese": "物件",
+      "pos": "n."
+    },
+    {
+      "id": 196,
+      "english": "compile",
+      "chinese": "編譯",
+      "pos": "v."
+    },
+    {
+      "id": 197,
+      "english": "due",
+      "chinese": "應有的",
+      "pos": "adj."
+    },
+    {
+      "id": 198,
+      "english": "upstream",
+      "chinese": "上游的",
+      "pos": "n."
+    },
+    {
+      "id": 199,
+      "english": "recovery",
+      "chinese": "恢復",
+      "pos": "n."
+    },
+    {
+      "id": 200,
+      "english": "data structure",
+      "chinese": "資料結構",
+      "pos": "n./phr."
+    },
+    {
+      "id": 201,
+      "english": "data redundancy",
+      "chinese": "資料重複",
+      "pos": "n./phr."
+    },
+    {
+      "id": 202,
+      "english": "date",
+      "chinese": "日期",
+      "pos": "n."
+    },
+    {
+      "id": 203,
+      "english": "bulletin board system",
+      "chinese": "電子佈告欄系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 204,
+      "english": "plan",
+      "chinese": "計畫",
+      "pos": "n./v."
+    },
+    {
+      "id": 205,
+      "english": "KB",
+      "chinese": "千位元組",
+      "pos": "n."
+    },
+    {
+      "id": 206,
+      "english": "modem",
+      "chinese": "數據機",
+      "pos": "n."
+    },
+    {
+      "id": 207,
+      "english": "deep packet",
+      "chinese": "深層封包",
+      "pos": "n./phr."
+    },
+    {
+      "id": 208,
+      "english": "information processing",
+      "chinese": "資訊處理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 209,
+      "english": "parameter",
+      "chinese": "參數",
+      "pos": "n."
+    },
+    {
+      "id": 210,
+      "english": "internetwork processor",
+      "chinese": "跨網處理器",
+      "pos": "n./phr."
+    },
+    {
+      "id": 211,
+      "english": "PPM",
+      "chinese": "每分鐘列印的頁數（英文簡稱）(全文:Pages Per Minute)",
+      "pos": "n."
+    },
+    {
+      "id": 212,
+      "english": "risk",
+      "chinese": "風險",
+      "pos": "n./v."
+    },
+    {
+      "id": 213,
+      "english": "infrastructure as a service",
+      "chinese": "基礎建設即服務",
+      "pos": "n./phr."
+    },
+    {
+      "id": 214,
+      "english": "HDD",
+      "chinese": "硬式磁碟機",
+      "pos": "n."
+    },
+    {
+      "id": 215,
+      "english": "agent",
+      "chinese": "代理商",
+      "pos": "n."
+    },
+    {
+      "id": 216,
+      "english": "parallel transmission",
+      "chinese": "並列傳輸",
+      "pos": "n./phr."
+    },
+    {
+      "id": 217,
+      "english": "millennium",
+      "chinese": "千禧年",
+      "pos": "n."
+    },
+    {
+      "id": 218,
+      "english": "data management software",
+      "chinese": "資料管理軟體找出或發現資料間的關係或事實",
+      "pos": "n./phr."
+    },
+    {
+      "id": 219,
+      "english": "enterprise information portal",
+      "chinese": "企業資訊入口網站",
+      "pos": "n./phr."
+    },
+    {
+      "id": 220,
+      "english": "microprocessor",
+      "chinese": "微處理器",
+      "pos": "n."
+    },
+    {
+      "id": 221,
+      "english": "ISBN",
+      "chinese": "國際標準書號",
+      "pos": "n."
+    },
+    {
+      "id": 222,
+      "english": "autoformat",
+      "chinese": "自動套用格式",
+      "pos": "n."
+    },
+    {
+      "id": 223,
+      "english": "DFD",
+      "chinese": "資料流程圖",
+      "pos": "n."
+    },
+    {
+      "id": 224,
+      "english": "router",
+      "chinese": "路由器",
+      "pos": "n."
+    },
+    {
+      "id": 225,
+      "english": "data transfer rate",
+      "chinese": "資料傳輸率",
+      "pos": "n./phr."
+    },
+    {
+      "id": 226,
+      "english": "on-demand",
+      "chinese": "隨需",
+      "pos": "adj./phr."
+    },
+    {
+      "id": 227,
+      "english": "smart card",
+      "chinese": "智慧卡",
+      "pos": "n."
+    },
+    {
+      "id": 228,
+      "english": "semiconductor memory",
+      "chinese": "半導體記憶體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 229,
+      "english": "antivirus software",
+      "chinese": "防毒軟體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 230,
+      "english": "notebook",
+      "chinese": "筆電",
+      "pos": "n."
+    },
+    {
+      "id": 231,
+      "english": "analysis",
+      "chinese": "分析",
+      "pos": "n."
+    },
+    {
+      "id": 232,
+      "english": "base",
+      "chinese": "基底",
+      "pos": "n."
+    },
+    {
+      "id": 233,
+      "english": "OLE",
+      "chinese": "物件連結與崁入（英文簡稱）(全文:Object Linking and Embedding)",
+      "pos": "n."
+    },
+    {
+      "id": 234,
+      "english": "cracker",
+      "chinese": "怪客；破壞者",
+      "pos": "n."
+    },
+    {
+      "id": 235,
+      "english": "baseband transmission",
+      "chinese": "基頻傳輸",
+      "pos": "n./phr."
+    },
+    {
+      "id": 236,
+      "english": "act",
+      "chinese": "法案",
+      "pos": "n."
+    },
+    {
+      "id": 237,
+      "english": "megabyte",
+      "chinese": "百萬位元組",
+      "pos": "n."
+    },
+    {
+      "id": 238,
+      "english": "wiki",
+      "chinese": "維基（百科全書）",
+      "pos": "n."
+    },
+    {
+      "id": 239,
+      "english": "senior",
+      "chinese": "高階的",
+      "pos": "adj."
+    },
+    {
+      "id": 240,
+      "english": "phishing",
+      "chinese": "網路釣魚",
+      "pos": "n."
+    },
+    {
+      "id": 241,
+      "english": "portable computer",
+      "chinese": "筆電",
+      "pos": "n./phr."
+    },
+    {
+      "id": 242,
+      "english": "GIS",
+      "chinese": "地理資訊系統",
+      "pos": "n."
+    },
+    {
+      "id": 243,
+      "english": "Acer",
+      "chinese": "宏碁",
+      "pos": "n."
+    },
+    {
+      "id": 244,
+      "english": "broadband transmission",
+      "chinese": "寬頻傳輸",
+      "pos": "n./phr."
+    },
+    {
+      "id": 245,
+      "english": "child domain",
+      "chinese": "子網域",
+      "pos": "n./phr."
+    },
+    {
+      "id": 246,
+      "english": "batch processing",
+      "chinese": "批次處理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 247,
+      "english": "IC",
+      "chinese": "積體電路",
+      "pos": "n."
+    },
+    {
+      "id": 248,
+      "english": "digital certificate",
+      "chinese": "數位憑證(認證)",
+      "pos": "n."
+    },
+    {
+      "id": 249,
+      "english": "download information",
+      "chinese": "下載資料",
+      "pos": "n./phr."
+    },
+    {
+      "id": 250,
+      "english": "implementation process",
+      "chinese": "建置流程",
+      "pos": "n./phr."
+    },
+    {
+      "id": 251,
+      "english": "DPI",
+      "chinese": "每英吋的點數",
+      "pos": "n."
+    },
+    {
+      "id": 252,
+      "english": "liquid crystal display",
+      "chinese": "液晶顯示器",
+      "pos": "n./phr."
+    },
+    {
+      "id": 253,
+      "english": "click",
+      "chinese": "按下的聲音",
+      "pos": "n./v."
+    },
+    {
+      "id": 254,
+      "english": "THz",
+      "chinese": "兆赫茲（英文簡稱）(全文:Terahertz)",
+      "pos": "n."
+    },
+    {
+      "id": 255,
+      "english": "weblog",
+      "chinese": "網誌",
+      "pos": "n."
+    },
+    {
+      "id": 256,
+      "english": "LED",
+      "chinese": "發光二極體",
+      "pos": "n."
+    },
+    {
+      "id": 257,
+      "english": "DRAM",
+      "chinese": "動態隨機存取記憶體",
+      "pos": "n."
+    },
+    {
+      "id": 258,
+      "english": "internal modem",
+      "chinese": "內置式數據機",
+      "pos": "n./phr."
+    },
+    {
+      "id": 259,
+      "english": "solid state",
+      "chinese": "固態",
+      "pos": "n."
+    },
+    {
+      "id": 260,
+      "english": "SDXC",
+      "chinese": "安全數位延伸高容量卡（英文簡稱）(全文:Secure Digital eXtended Capacity)",
+      "pos": "n."
+    },
+    {
+      "id": 261,
+      "english": "computer vision",
+      "chinese": "電腦視力",
+      "pos": "n./phr."
+    },
+    {
+      "id": 262,
+      "english": "control",
+      "chinese": "控制",
+      "pos": "n./v."
+    },
+    {
+      "id": 263,
+      "english": "SDLC",
+      "chinese": "系統開發生命週期（英文簡稱）(全文:System Development Life Cycle)",
+      "pos": "n."
+    },
+    {
+      "id": 264,
+      "english": "referential integrity",
+      "chinese": "參照完整性",
+      "pos": "n./phr."
+    },
+    {
+      "id": 265,
+      "english": "infrastructure",
+      "chinese": "基礎建設",
+      "pos": "n."
+    },
+    {
+      "id": 266,
+      "english": "portal",
+      "chinese": "入口網站",
+      "pos": "n."
+    },
+    {
+      "id": 267,
+      "english": "digital asset",
+      "chinese": "數位資產",
+      "pos": "n./phr."
+    },
+    {
+      "id": 268,
+      "english": "chat",
+      "chinese": "聊天",
+      "pos": "n."
+    },
+    {
+      "id": 269,
+      "english": "access time",
+      "chinese": "存取時間",
+      "pos": "n./phr."
+    },
+    {
+      "id": 270,
+      "english": "electronic commerce",
+      "chinese": "電子商務",
+      "pos": "n./phr."
+    },
+    {
+      "id": 271,
+      "english": "process control system",
+      "chinese": "流程控制系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 272,
+      "english": "peripheral",
+      "chinese": "周邊設備",
+      "pos": "n."
+    },
+    {
+      "id": 273,
+      "english": "MU",
+      "chinese": "記憶單元",
+      "pos": "n."
+    },
+    {
+      "id": 274,
+      "english": "CAI",
+      "chinese": "電腦輔助教學",
+      "pos": "n."
+    },
+    {
+      "id": 275,
+      "english": "integrated circuit card",
+      "chinese": "IC卡",
+      "pos": "n./phr."
+    },
+    {
+      "id": 276,
+      "english": "gigabyte",
+      "chinese": "十億位元組",
+      "pos": "n."
+    },
+    {
+      "id": 277,
+      "english": "wizard",
+      "chinese": "精靈",
+      "pos": "n."
+    },
+    {
+      "id": 278,
+      "english": "private",
+      "chinese": "私有的",
+      "pos": "adj."
+    },
+    {
+      "id": 279,
+      "english": "IaaS",
+      "chinese": "基礎建設即服務",
+      "pos": "n."
+    },
+    {
+      "id": 280,
+      "english": "database management system",
+      "chinese": "資料庫管理系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 281,
+      "english": "home page",
+      "chinese": "首頁",
+      "pos": "n./phr."
+    },
+    {
+      "id": 282,
+      "english": "back color",
+      "chinese": "背景顏色",
+      "pos": "n./phr."
+    },
+    {
+      "id": 283,
+      "english": "protocol",
+      "chinese": "協定",
+      "pos": "n."
+    },
+    {
+      "id": 284,
+      "english": "disk cache",
+      "chinese": "磁碟快取（記憶體）",
+      "pos": "n./phr."
+    },
+    {
+      "id": 285,
+      "english": "OCR",
+      "chinese": "光學字元辨識軟體（英文簡稱）(全文:Optical Character Recognition)",
+      "pos": "n."
+    },
+    {
+      "id": 286,
+      "english": "control unit",
+      "chinese": "控制單元",
+      "pos": "n./phr."
+    },
+    {
+      "id": 287,
+      "english": "Microsoft",
+      "chinese": "微軟",
+      "pos": "n."
+    },
+    {
+      "id": 288,
+      "english": "shareware",
+      "chinese": "共享軟體",
+      "pos": "n."
+    },
+    {
+      "id": 289,
+      "english": "freeware",
+      "chinese": "免費軟體",
+      "pos": "n."
+    },
+    {
+      "id": 290,
+      "english": "ALU",
+      "chinese": "算術邏輯單元",
+      "pos": "n."
+    },
+    {
+      "id": 291,
+      "english": "e-government",
+      "chinese": "電子化政府",
+      "pos": "n."
+    },
+    {
+      "id": 292,
+      "english": "network",
+      "chinese": "網路",
+      "pos": "n."
+    },
+    {
+      "id": 293,
+      "english": "e-learning",
+      "chinese": "數位學習",
+      "pos": "n."
+    },
+    {
+      "id": 294,
+      "english": "Internet protocol",
+      "chinese": "網際網路協定",
+      "pos": "n./phr."
+    },
+    {
+      "id": 295,
+      "english": "business intelligence",
+      "chinese": "商業智慧",
+      "pos": "n./phr."
+    },
+    {
+      "id": 296,
+      "english": "webcam",
+      "chinese": "網路攝像機",
+      "pos": "n."
+    },
+    {
+      "id": 297,
+      "english": "marketing",
+      "chinese": "行銷",
+      "pos": "n."
+    },
+    {
+      "id": 298,
+      "english": "bit",
+      "chinese": "位元",
+      "pos": "n."
+    },
+    {
+      "id": 299,
+      "english": "electronic payment system",
+      "chinese": "電子付款系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 300,
+      "english": "hypertext transfer protocol",
+      "chinese": "超文字傳輸協定",
+      "pos": "n./phr."
+    },
+    {
+      "id": 301,
+      "english": "primary partition",
+      "chinese": "主要分割區",
+      "pos": "n./phr."
+    },
+    {
+      "id": 302,
+      "english": "P2P",
+      "chinese": "點對點對點式（英文簡稱）",
+      "pos": "n."
+    },
+    {
+      "id": 303,
+      "english": "double click",
+      "chinese": "按兩下",
+      "pos": "v./phr."
+    },
+    {
+      "id": 304,
+      "english": "machine",
+      "chinese": "機器",
+      "pos": "n."
+    },
+    {
+      "id": 305,
+      "english": "optimization",
+      "chinese": "最佳化",
+      "pos": "n."
+    },
+    {
+      "id": 306,
+      "english": "strategy",
+      "chinese": "策略",
+      "pos": "n."
+    },
+    {
+      "id": 307,
+      "english": "information requirement",
+      "chinese": "資訊需求",
+      "pos": "n./phr."
+    },
+    {
+      "id": 308,
+      "english": "backbone",
+      "chinese": "骨幹網路",
+      "pos": "n."
+    },
+    {
+      "id": 309,
+      "english": "cloud computing",
+      "chinese": "雲端運算",
+      "pos": "n./phr."
+    },
+    {
+      "id": 310,
+      "english": "refresh rate",
+      "chinese": "更新率",
+      "pos": "n."
+    },
+    {
+      "id": 311,
+      "english": "audio",
+      "chinese": "音訊",
+      "pos": "adj./n."
+    },
+    {
+      "id": 312,
+      "english": "programming",
+      "chinese": "程式（設計）",
+      "pos": "n."
+    },
+    {
+      "id": 313,
+      "english": "timer",
+      "chinese": "計時器",
+      "pos": "n."
+    },
+    {
+      "id": 314,
+      "english": "character",
+      "chinese": "字元",
+      "pos": "n."
+    },
+    {
+      "id": 315,
+      "english": "technical feasibility",
+      "chinese": "技術可行性",
+      "pos": "n./phr."
+    },
+    {
+      "id": 316,
+      "english": "domain name system",
+      "chinese": "網域名稱系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 317,
+      "english": "domain name",
+      "chinese": "網域名稱",
+      "pos": "n./phr."
+    },
+    {
+      "id": 318,
+      "english": "network server",
+      "chinese": "網路伺服器",
+      "pos": "n./phr."
+    },
+    {
+      "id": 319,
+      "english": "payment",
+      "chinese": "付費",
+      "pos": "n."
+    },
+    {
+      "id": 320,
+      "english": "graphics",
+      "chinese": "圖形",
+      "pos": "n."
+    },
+    {
+      "id": 321,
+      "english": "fiber",
+      "chinese": "光纖",
+      "pos": "n."
+    },
+    {
+      "id": 322,
+      "english": "online transaction processing",
+      "chinese": "線上交易處理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 323,
+      "english": "digital camera",
+      "chinese": "數位相機",
+      "pos": "n./phr."
+    },
+    {
+      "id": 324,
+      "english": "secondary storage",
+      "chinese": "次級儲存體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 325,
+      "english": "enterprise",
+      "chinese": "企業",
+      "pos": "n."
+    },
+    {
+      "id": 326,
+      "english": "antivirus",
+      "chinese": "防毒",
+      "pos": "n."
+    },
+    {
+      "id": 327,
+      "english": "NII",
+      "chinese": "國家資訊基礎建設",
+      "pos": "n."
+    },
+    {
+      "id": 328,
+      "english": "software resource",
+      "chinese": "軟體資源",
+      "pos": "n./phr."
+    },
+    {
+      "id": 329,
+      "english": "cell",
+      "chinese": "儲存格",
+      "pos": "n."
+    },
+    {
+      "id": 330,
+      "english": "array",
+      "chinese": "陣列",
+      "pos": "n."
+    },
+    {
+      "id": 331,
+      "english": "public key",
+      "chinese": "公開金鑰",
+      "pos": "n./phr."
+    },
+    {
+      "id": 332,
+      "english": "downtime",
+      "chinese": "停機時間",
+      "pos": "n."
+    },
+    {
+      "id": 333,
+      "english": "TCP",
+      "chinese": "傳輸控制協定（英文簡稱）(全文:Transmission Control Protocol)",
+      "pos": "n."
+    },
+    {
+      "id": 334,
+      "english": "routing",
+      "chinese": "規劃路徑（網路）",
+      "pos": "n."
+    },
+    {
+      "id": 335,
+      "english": "knowledge worker",
+      "chinese": "知識工作者",
+      "pos": "n./phr."
+    },
+    {
+      "id": 336,
+      "english": "transistor",
+      "chinese": "電晶體",
+      "pos": "n."
+    },
+    {
+      "id": 337,
+      "english": "benefit",
+      "chinese": "效益",
+      "pos": "n./v."
+    },
+    {
+      "id": 338,
+      "english": "people resource",
+      "chinese": "人力資源",
+      "pos": "n./phr."
+    },
+    {
+      "id": 339,
+      "english": "storage",
+      "chinese": "儲存",
+      "pos": "n."
+    },
+    {
+      "id": 340,
+      "english": "nano",
+      "chinese": "奈米",
+      "pos": "n."
+    },
+    {
+      "id": 341,
+      "english": "kilobyte",
+      "chinese": "千位元組",
+      "pos": "n."
+    },
+    {
+      "id": 342,
+      "english": "recharge battery",
+      "chinese": "可充電式電池",
+      "pos": "v./phr."
+    },
+    {
+      "id": 343,
+      "english": "DSL",
+      "chinese": "數位用戶線路",
+      "pos": "n."
+    },
+    {
+      "id": 344,
+      "english": "integrated package",
+      "chinese": "整合式套件",
+      "pos": "n./phr."
+    },
+    {
+      "id": 345,
+      "english": "unicode",
+      "chinese": "萬國碼",
+      "pos": "n."
+    },
+    {
+      "id": 346,
+      "english": "office automation",
+      "chinese": "辦公室自動化",
+      "pos": "n./phr."
+    },
+    {
+      "id": 347,
+      "english": "terabyte",
+      "chinese": "兆位元組（TG)",
+      "pos": "n."
+    },
+    {
+      "id": 348,
+      "english": "secure digital",
+      "chinese": "安全數位（卡）（SD)",
+      "pos": "n./phr."
+    },
+    {
+      "id": 349,
+      "english": "inform",
+      "chinese": "通知",
+      "pos": "v."
+    },
+    {
+      "id": 350,
+      "english": "database administrator",
+      "chinese": "資料庫管理員",
+      "pos": "n./phr."
+    },
+    {
+      "id": 351,
+      "english": "model",
+      "chinese": "模型",
+      "pos": "n."
+    },
+    {
+      "id": 352,
+      "english": "data mining",
+      "chinese": "資料探勘",
+      "pos": "n./phr."
+    },
+    {
+      "id": 353,
+      "english": "primary key",
+      "chinese": "主鍵",
+      "pos": "n./phr."
+    },
+    {
+      "id": 354,
+      "english": "desktop",
+      "chinese": "桌面",
+      "pos": "n."
+    },
+    {
+      "id": 355,
+      "english": "buffer",
+      "chinese": "緩衝器",
+      "pos": "n./v."
+    },
+    {
+      "id": 356,
+      "english": "hypertext",
+      "chinese": "超文件",
+      "pos": "n."
+    },
+    {
+      "id": 357,
+      "english": "SaaS",
+      "chinese": "軟體即服務（英文簡稱）(全文:Software as a Service)",
+      "pos": "n."
+    },
+    {
+      "id": 358,
+      "english": "metadata",
+      "chinese": "定義的資料",
+      "pos": "n."
+    },
+    {
+      "id": 359,
+      "english": "telecommunication network",
+      "chinese": "電信通訊網路",
+      "pos": "n./phr."
+    },
+    {
+      "id": 360,
+      "english": "microwave",
+      "chinese": "微波",
+      "pos": "n."
+    },
+    {
+      "id": 361,
+      "english": "DBMS",
+      "chinese": "資料庫管理系統",
+      "pos": "n."
+    },
+    {
+      "id": 362,
+      "english": "forensics",
+      "chinese": "鑑識；辯論術",
+      "pos": "n."
+    },
+    {
+      "id": 363,
+      "english": "QR code",
+      "chinese": "快速反應碼（英文簡稱）(全文: quick response code)",
+      "pos": "n./phr."
+    },
+    {
+      "id": 364,
+      "english": "log on",
+      "chinese": "登入",
+      "pos": "v./phr."
+    },
+    {
+      "id": 365,
+      "english": "power supply",
+      "chinese": "電源供應器",
+      "pos": "n./phr."
+    },
+    {
+      "id": 366,
+      "english": "terminal",
+      "chinese": "終端機",
+      "pos": "n."
+    },
+    {
+      "id": 367,
+      "english": "RAID",
+      "chinese": "獨立磁碟冗餘陣列（縮寫）(全文:Redundant Array of Independent Disks)",
+      "pos": "n."
+    },
+    {
+      "id": 368,
+      "english": "standby mode",
+      "chinese": "待命模式",
+      "pos": "n./phr."
+    },
+    {
+      "id": 369,
+      "english": "computer forensics",
+      "chinese": "電腦鑑識",
+      "pos": "n./phr."
+    },
+    {
+      "id": 370,
+      "english": "variable",
+      "chinese": "變數",
+      "pos": "n."
+    },
+    {
+      "id": 371,
+      "english": "data conversion",
+      "chinese": "資料轉換",
+      "pos": "n./phr."
+    },
+    {
+      "id": 372,
+      "english": "LIFO",
+      "chinese": "後進先出",
+      "pos": "n."
+    },
+    {
+      "id": 373,
+      "english": "KHz",
+      "chinese": "千赫茲",
+      "pos": "n."
+    },
+    {
+      "id": 374,
+      "english": "entity relationship",
+      "chinese": "實體關係",
+      "pos": "n./phr."
+    },
+    {
+      "id": 375,
+      "english": "culture",
+      "chinese": "文化",
+      "pos": "n."
+    },
+    {
+      "id": 376,
+      "english": "e-business",
+      "chinese": "電子化企業",
+      "pos": "n."
+    },
+    {
+      "id": 377,
+      "english": "CD-R",
+      "chinese": "可錄式光碟",
+      "pos": "n."
+    },
+    {
+      "id": 378,
+      "english": "non-repudiation",
+      "chinese": "不可否認性",
+      "pos": "n."
+    },
+    {
+      "id": 379,
+      "english": "SATA",
+      "chinese": "串列先進科技附加排線（英文簡稱）(全文:Serial Advanced Technology Attachment)",
+      "pos": "n."
+    },
+    {
+      "id": 380,
+      "english": "system",
+      "chinese": "系統",
+      "pos": "n."
+    },
+    {
+      "id": 381,
+      "english": "star",
+      "chinese": "星狀",
+      "pos": "n."
+    },
+    {
+      "id": 382,
+      "english": "confidentiality",
+      "chinese": "機密性",
+      "pos": "n."
+    },
+    {
+      "id": 383,
+      "english": "hard disk",
+      "chinese": "硬碟",
+      "pos": "n./phr."
+    },
+    {
+      "id": 384,
+      "english": "DoS",
+      "chinese": "阻斷服務",
+      "pos": "n."
+    },
+    {
+      "id": 385,
+      "english": "file",
+      "chinese": "檔案",
+      "pos": "n."
+    },
+    {
+      "id": 386,
+      "english": "disaster recovery",
+      "chinese": "災難復原",
+      "pos": "n./phr."
+    },
+    {
+      "id": 387,
+      "english": "installation",
+      "chinese": "安裝",
+      "pos": "n."
+    },
+    {
+      "id": 388,
+      "english": "bridge",
+      "chinese": "橋接器",
+      "pos": "n."
+    },
+    {
+      "id": 389,
+      "english": "URL",
+      "chinese": "一致性資源定位器（英文簡稱）(全文:Uniform Resource Locator)",
+      "pos": "n."
+    },
+    {
+      "id": 390,
+      "english": "power-on self test",
+      "chinese": "開機自我測試",
+      "pos": "n./phr."
+    },
+    {
+      "id": 391,
+      "english": "business model",
+      "chinese": "商業模式",
+      "pos": "n./phr."
+    },
+    {
+      "id": 392,
+      "english": "executive information system",
+      "chinese": "高階主管資訊系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 393,
+      "english": "program",
+      "chinese": "程式",
+      "pos": "n./v."
+    },
+    {
+      "id": 394,
+      "english": "monitor",
+      "chinese": "顯示器",
+      "pos": "n./v."
+    },
+    {
+      "id": 395,
+      "english": "online analytical processing",
+      "chinese": "線上分析處理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 396,
+      "english": "cost",
+      "chinese": "成本",
+      "pos": "n./v."
+    },
+    {
+      "id": 397,
+      "english": "iOS",
+      "chinese": "iPhone手機的作業系統",
+      "pos": "n."
+    },
+    {
+      "id": 398,
+      "english": "PPTP",
+      "chinese": "點對點通道協定(全文:Point-to-Point Tunneling Protocol)",
+      "pos": "n."
+    },
+    {
+      "id": 399,
+      "english": "midrange system",
+      "chinese": "中型系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 400,
+      "english": "server",
+      "chinese": "伺服器",
+      "pos": "n."
+    },
+    {
+      "id": 401,
+      "english": "queue",
+      "chinese": "佇列",
+      "pos": "n."
+    },
+    {
+      "id": 402,
+      "english": "password",
+      "chinese": "密碼",
+      "pos": "n."
+    },
+    {
+      "id": 403,
+      "english": "OLAP",
+      "chinese": "線上分析處理",
+      "pos": "n."
+    },
+    {
+      "id": 404,
+      "english": "smartphone",
+      "chinese": "智慧型手機",
+      "pos": "n."
+    },
+    {
+      "id": 405,
+      "english": "local area network",
+      "chinese": "區域網路",
+      "pos": "n./phr."
+    },
+    {
+      "id": 406,
+      "english": "battery",
+      "chinese": "電池",
+      "pos": "n."
+    },
+    {
+      "id": 407,
+      "english": "Samsung",
+      "chinese": "三星",
+      "pos": "n."
+    },
+    {
+      "id": 408,
+      "english": "distance instruction",
+      "chinese": "遠距教學",
+      "pos": "n./phr."
+    },
+    {
+      "id": 409,
+      "english": "development",
+      "chinese": "開發",
+      "pos": "n."
+    },
+    {
+      "id": 410,
+      "english": "catalog",
+      "chinese": "型錄",
+      "pos": "n."
+    },
+    {
+      "id": 411,
+      "english": "POP",
+      "chinese": "處理郵件通訊協定（英文簡稱）",
+      "pos": "n."
+    },
+    {
+      "id": 412,
+      "english": "knowledge engineer",
+      "chinese": "知識工程師",
+      "pos": "n./phr."
+    },
+    {
+      "id": 413,
+      "english": "Internet",
+      "chinese": "網際網路",
+      "pos": "n."
+    },
+    {
+      "id": 414,
+      "english": "message box",
+      "chinese": "訊息視窗",
+      "pos": "n./phr."
+    },
+    {
+      "id": 415,
+      "english": "font",
+      "chinese": "字型",
+      "pos": "n."
+    },
+    {
+      "id": 416,
+      "english": "pad",
+      "chinese": "平板",
+      "pos": "n."
+    },
+    {
+      "id": 417,
+      "english": "Hertz",
+      "chinese": "赫茲",
+      "pos": "n."
+    },
+    {
+      "id": 418,
+      "english": "data manipulation",
+      "chinese": "資料操縱",
+      "pos": "n./phr."
+    },
+    {
+      "id": 419,
+      "english": "downstream data",
+      "chinese": "下流（游）的資料",
+      "pos": "n./phr."
+    },
+    {
+      "id": 420,
+      "english": "do it yourself",
+      "chinese": "自己做",
+      "pos": "v./phr."
+    },
+    {
+      "id": 421,
+      "english": "broker",
+      "chinese": "仲介商",
+      "pos": "n./v."
+    },
+    {
+      "id": 422,
+      "english": "broadband",
+      "chinese": "寬頻",
+      "pos": "n."
+    },
+    {
+      "id": 423,
+      "english": "access point",
+      "chinese": "無線基地台",
+      "pos": "n./phr."
+    },
+    {
+      "id": 424,
+      "english": "SCM",
+      "chinese": "供應鏈管理（縮寫）(全文:Supply Chain Management)",
+      "pos": "n."
+    },
+    {
+      "id": 425,
+      "english": "exchange",
+      "chinese": "交易",
+      "pos": "n./v."
+    },
+    {
+      "id": 426,
+      "english": "GPS",
+      "chinese": "全球定位系統",
+      "pos": "n."
+    },
+    {
+      "id": 427,
+      "english": "serial transmission",
+      "chinese": "串列傳輸",
+      "pos": "n./phr."
+    },
+    {
+      "id": 428,
+      "english": "BBS",
+      "chinese": "電子佈告欄系統",
+      "pos": "n."
+    },
+    {
+      "id": 429,
+      "english": "hide",
+      "chinese": "隱藏",
+      "pos": "v."
+    },
+    {
+      "id": 430,
+      "english": "secure digital high capacity",
+      "chinese": "安全數位高容量（卡）",
+      "pos": "n./phr."
+    },
+    {
+      "id": 431,
+      "english": "literacy",
+      "chinese": "素養",
+      "pos": "n."
+    },
+    {
+      "id": 432,
+      "english": "projector",
+      "chinese": "投影機",
+      "pos": "n."
+    },
+    {
+      "id": 433,
+      "english": "global positioning system",
+      "chinese": "全球定位系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 434,
+      "english": "programming language",
+      "chinese": "程式語言",
+      "pos": "n./phr."
+    },
+    {
+      "id": 435,
+      "english": "integrated circuit",
+      "chinese": "積體電路",
+      "pos": "n./phr."
+    },
+    {
+      "id": 436,
+      "english": "frame",
+      "chinese": "框架",
+      "pos": "n."
+    },
+    {
+      "id": 437,
+      "english": "accounting information system",
+      "chinese": "會計資訊系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 438,
+      "english": "USB",
+      "chinese": "萬用序列匯流排（英文簡稱）(全文:Universal Serial Bus)",
+      "pos": "n."
+    },
+    {
+      "id": 439,
+      "english": "output unit",
+      "chinese": "輸出單元",
+      "pos": "n./phr."
+    },
+    {
+      "id": 440,
+      "english": "linker",
+      "chinese": "連結程式",
+      "pos": "n."
+    },
+    {
+      "id": 441,
+      "english": "Internet bank",
+      "chinese": "網路銀行",
+      "pos": "n./phr."
+    },
+    {
+      "id": 442,
+      "english": "warehouse",
+      "chinese": "倉儲",
+      "pos": "n."
+    },
+    {
+      "id": 443,
+      "english": "FIFO",
+      "chinese": "先進先出",
+      "pos": "n."
+    },
+    {
+      "id": 444,
+      "english": "icon",
+      "chinese": "圖示",
+      "pos": "n."
+    },
+    {
+      "id": 445,
+      "english": "BIOS",
+      "chinese": "基本輸入輸出系統",
+      "pos": "n."
+    },
+    {
+      "id": 446,
+      "english": "biometrics",
+      "chinese": "生物測定學",
+      "pos": "n."
+    },
+    {
+      "id": 447,
+      "english": "cell phone",
+      "chinese": "行動電話",
+      "pos": "n./phr."
+    },
+    {
+      "id": 448,
+      "english": "auction",
+      "chinese": "拍賣",
+      "pos": "n."
+    },
+    {
+      "id": 449,
+      "english": "downstream",
+      "chinese": "下游的",
+      "pos": "adj."
+    },
+    {
+      "id": 450,
+      "english": "SD",
+      "chinese": "安全數位（卡）（英文簡稱）(全文:Secure Digital)",
+      "pos": "n."
+    },
+    {
+      "id": 451,
+      "english": "domain",
+      "chinese": "網域",
+      "pos": "n."
+    },
+    {
+      "id": 452,
+      "english": "Linux",
+      "chinese": "一種免費；多用戶；多工的作業系統",
+      "pos": "n."
+    },
+    {
+      "id": 453,
+      "english": "audit",
+      "chinese": "審核",
+      "pos": "n./v."
+    },
+    {
+      "id": 454,
+      "english": "information system",
+      "chinese": "資訊系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 455,
+      "english": "EFT",
+      "chinese": "電子金融轉帳",
+      "pos": "n."
+    },
+    {
+      "id": 456,
+      "english": "upgrade",
+      "chinese": "升級",
+      "pos": "n./v."
+    },
+    {
+      "id": 457,
+      "english": "spam",
+      "chinese": "垃圾郵件",
+      "pos": "n."
+    },
+    {
+      "id": 458,
+      "english": "client-server LAN",
+      "chinese": "主從式區域網路",
+      "pos": "n./phr."
+    },
+    {
+      "id": 459,
+      "english": "sector",
+      "chinese": "磁區",
+      "pos": "n."
+    },
+    {
+      "id": 460,
+      "english": "value chain model",
+      "chinese": "價值鏈模型",
+      "pos": "n./phr."
+    },
+    {
+      "id": 461,
+      "english": "virus",
+      "chinese": "病毒",
+      "pos": "n."
+    },
+    {
+      "id": 462,
+      "english": "distributed processing system",
+      "chinese": "分散式處理系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 463,
+      "english": "presentation",
+      "chinese": "簡報",
+      "pos": "n."
+    },
+    {
+      "id": 464,
+      "english": "e-commerce",
+      "chinese": "電子商務",
+      "pos": "n."
+    },
+    {
+      "id": 465,
+      "english": "procedure",
+      "chinese": "程序",
+      "pos": "n."
+    },
+    {
+      "id": 466,
+      "english": "decision support system",
+      "chinese": "決策支援系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 467,
+      "english": "impact",
+      "chinese": "影響",
+      "pos": "n./v."
+    },
+    {
+      "id": 468,
+      "english": "internal code",
+      "chinese": "內碼",
+      "pos": "n./phr."
+    },
+    {
+      "id": 469,
+      "english": "data worker",
+      "chinese": "資料工作者",
+      "pos": "n./phr."
+    },
+    {
+      "id": 470,
+      "english": "electronic government",
+      "chinese": "電子化政府",
+      "pos": "n./phr."
+    },
+    {
+      "id": 471,
+      "english": "virtual",
+      "chinese": "虛擬的",
+      "pos": "adj."
+    },
+    {
+      "id": 472,
+      "english": "WWW",
+      "chinese": "全球資訊網（的英文簡稱）(全文:World Wide Web)",
+      "pos": "n."
+    },
+    {
+      "id": 473,
+      "english": "pharming",
+      "chinese": "網址嫁接；網域欺騙技術",
+      "pos": "n."
+    },
+    {
+      "id": 474,
+      "english": "business process and operation",
+      "chinese": "企業流程與營運",
+      "pos": "n./phr."
+    },
+    {
+      "id": 475,
+      "english": "computer monitoring",
+      "chinese": "電腦監控",
+      "pos": "n./phr."
+    },
+    {
+      "id": 476,
+      "english": "conference call",
+      "chinese": "電話會議",
+      "pos": "n./phr."
+    },
+    {
+      "id": 477,
+      "english": "doze mode",
+      "chinese": "休眠模式",
+      "pos": "n./phr."
+    },
+    {
+      "id": 478,
+      "english": "pixel",
+      "chinese": "像素",
+      "pos": "n."
+    },
+    {
+      "id": 479,
+      "english": "demand",
+      "chinese": "需求",
+      "pos": "n./v."
+    },
+    {
+      "id": 480,
+      "english": "management information systems",
+      "chinese": "資訊管理系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 481,
+      "english": "offshoring",
+      "chinese": "境外",
+      "pos": "n."
+    },
+    {
+      "id": 482,
+      "english": "sniffer",
+      "chinese": "網路監聽",
+      "pos": "n."
+    },
+    {
+      "id": 483,
+      "english": "multicore",
+      "chinese": "多核心的",
+      "pos": "adj."
+    },
+    {
+      "id": 484,
+      "english": "millisecond",
+      "chinese": "毫秒",
+      "pos": "n."
+    },
+    {
+      "id": 485,
+      "english": "DIY",
+      "chinese": "自己做",
+      "pos": "n."
+    },
+    {
+      "id": 486,
+      "english": "transparency",
+      "chinese": "透明度",
+      "pos": "n."
+    },
+    {
+      "id": 487,
+      "english": "SDHC",
+      "chinese": "安全數位高容量（卡）（英文簡稱）(全文:Secure Digital High Capacity)",
+      "pos": "n."
+    },
+    {
+      "id": 488,
+      "english": "all rights reserved",
+      "chinese": "版權所有",
+      "pos": "phr."
+    },
+    {
+      "id": 489,
+      "english": "RPM",
+      "chinese": "每分鐘旋轉圈數（英文簡稱）(全文:Revolutions Per Minute)",
+      "pos": "n."
+    },
+    {
+      "id": 490,
+      "english": "EC",
+      "chinese": "電子商務",
+      "pos": "n."
+    },
+    {
+      "id": 491,
+      "english": "information technology",
+      "chinese": "資訊科技",
+      "pos": "n./phr."
+    },
+    {
+      "id": 492,
+      "english": "offline",
+      "chinese": "離線",
+      "pos": "n."
+    },
+    {
+      "id": 493,
+      "english": "PSTN",
+      "chinese": "公眾電話網路（英文簡稱）(全文:Public Switched Telephone Network)",
+      "pos": "n."
+    },
+    {
+      "id": 494,
+      "english": "LAN",
+      "chinese": "區域網路",
+      "pos": "n."
+    },
+    {
+      "id": 495,
+      "english": "display",
+      "chinese": "顯示器",
+      "pos": "n./v."
+    },
+    {
+      "id": 496,
+      "english": "megahertz",
+      "chinese": "百萬赫茲",
+      "pos": "n."
+    },
+    {
+      "id": 497,
+      "english": "loader",
+      "chinese": "載入程式",
+      "pos": "n."
+    },
+    {
+      "id": 498,
+      "english": "digital divide",
+      "chinese": "數位區隔",
+      "pos": "n./phr."
+    },
+    {
+      "id": 499,
+      "english": "cycle",
+      "chinese": "週期；循環",
+      "pos": "n./v."
+    },
+    {
+      "id": 500,
+      "english": "compatible",
+      "chinese": "相容的",
+      "pos": "adj."
+    },
+    {
+      "id": 501,
+      "english": "ADSL",
+      "chinese": "非對稱數位用戶迴路",
+      "pos": "n."
+    },
+    {
+      "id": 502,
+      "english": "input",
+      "chinese": "輸入",
+      "pos": "n."
+    },
+    {
+      "id": 503,
+      "english": "computing",
+      "chinese": "運算",
+      "pos": "n."
+    },
+    {
+      "id": 504,
+      "english": "integrity",
+      "chinese": "完整性",
+      "pos": "n."
+    },
+    {
+      "id": 505,
+      "english": "main memory",
+      "chinese": "主記憶體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 506,
+      "english": "swapping",
+      "chinese": "交換",
+      "pos": "n."
+    },
+    {
+      "id": 507,
+      "english": "feedback",
+      "chinese": "回饋",
+      "pos": "n."
+    },
+    {
+      "id": 508,
+      "english": "Macintosh",
+      "chinese": "麥金塔",
+      "pos": "n."
+    },
+    {
+      "id": 509,
+      "english": "marketplace",
+      "chinese": "市集",
+      "pos": "n."
+    },
+    {
+      "id": 510,
+      "english": "text",
+      "chinese": "文字",
+      "pos": "n."
+    },
+    {
+      "id": 511,
+      "english": "architecture",
+      "chinese": "架構",
+      "pos": "n."
+    },
+    {
+      "id": 512,
+      "english": "sort",
+      "chinese": "排序",
+      "pos": "n./v."
+    },
+    {
+      "id": 513,
+      "english": "show",
+      "chinese": "顯示",
+      "pos": "n./v."
+    },
+    {
+      "id": 514,
+      "english": "distribute",
+      "chinese": "分散",
+      "pos": "v."
+    },
+    {
+      "id": 515,
+      "english": "ISO",
+      "chinese": "國際標準組織",
+      "pos": "n."
+    },
+    {
+      "id": 516,
+      "english": "image",
+      "chinese": "影像",
+      "pos": "n."
+    },
+    {
+      "id": 517,
+      "english": "copyright",
+      "chinese": "版權",
+      "pos": "n."
+    },
+    {
+      "id": 518,
+      "english": "slide",
+      "chinese": "投影片",
+      "pos": "n."
+    },
+    {
+      "id": 519,
+      "english": "GB",
+      "chinese": "十億位元組",
+      "pos": "n."
+    },
+    {
+      "id": 520,
+      "english": "task",
+      "chinese": "工作",
+      "pos": "n."
+    },
+    {
+      "id": 521,
+      "english": "data flow",
+      "chinese": "資料流",
+      "pos": "n./phr."
+    },
+    {
+      "id": 522,
+      "english": "field name",
+      "chinese": "欄位名稱",
+      "pos": "n./phr."
+    },
+    {
+      "id": 523,
+      "english": "network operating system",
+      "chinese": "網路作業系統",
+      "pos": "n./phr."
+    },
+    {
+      "id": 524,
+      "english": "CA",
+      "chinese": "認證機構",
+      "pos": "n."
+    },
+    {
+      "id": 525,
+      "english": "macro",
+      "chinese": "巨集",
+      "pos": "n."
+    },
+    {
+      "id": 526,
+      "english": "EIS",
+      "chinese": "高階主管資訊系統",
+      "pos": "n."
+    },
+    {
+      "id": 527,
+      "english": "PDA",
+      "chinese": "個人數位助理（英文簡稱）(全文:Personal Digital Assistant)",
+      "pos": "n."
+    },
+    {
+      "id": 528,
+      "english": "MHz",
+      "chinese": "百萬赫茲（英文簡稱）",
+      "pos": "n."
+    },
+    {
+      "id": 529,
+      "english": "ASCII",
+      "chinese": "美國資訊交換標準碼",
+      "pos": "n."
+    },
+    {
+      "id": 530,
+      "english": "modulation",
+      "chinese": "調變",
+      "pos": "n."
+    },
+    {
+      "id": 531,
+      "english": "RAM",
+      "chinese": "隨機存取記憶體（英文簡稱）(全文:Random Access Memory)",
+      "pos": "n."
+    },
+    {
+      "id": 532,
+      "english": "search engine",
+      "chinese": "搜尋引擎",
+      "pos": "n./phr."
+    },
+    {
+      "id": 533,
+      "english": "asset",
+      "chinese": "資產",
+      "pos": "n."
+    },
+    {
+      "id": 534,
+      "english": "Facebook",
+      "chinese": "臉書",
+      "pos": "n."
+    },
+    {
+      "id": 535,
+      "english": "information appliance",
+      "chinese": "資訊家電",
+      "pos": "n./phr."
+    },
+    {
+      "id": 536,
+      "english": "blog",
+      "chinese": "部落格",
+      "pos": "n."
+    },
+    {
+      "id": 537,
+      "english": "wireless LAN",
+      "chinese": "無線區域網路（LAN)",
+      "pos": "n./phr."
+    },
+    {
+      "id": 538,
+      "english": "wireless technology",
+      "chinese": "無線科技",
+      "pos": "n./phr."
+    },
+    {
+      "id": 539,
+      "english": "bug",
+      "chinese": "瑕疵",
+      "pos": "n."
+    },
+    {
+      "id": 540,
+      "english": "datagram",
+      "chinese": "資料包；數據包",
+      "pos": "n."
+    },
+    {
+      "id": 541,
+      "english": "Android",
+      "chinese": "安卓",
+      "pos": "n."
+    },
+    {
+      "id": 542,
+      "english": "dynamic",
+      "chinese": "動態的",
+      "pos": "adj."
+    },
+    {
+      "id": 543,
+      "english": "end users",
+      "chinese": "終端使用者",
+      "pos": "n./phr."
+    },
+    {
+      "id": 544,
+      "english": "encryption",
+      "chinese": "加密",
+      "pos": "n."
+    },
+    {
+      "id": 545,
+      "english": "radio frequency",
+      "chinese": "無線電射頻（RF)",
+      "pos": "n./phr."
+    },
+    {
+      "id": 546,
+      "english": "memory unit",
+      "chinese": "記憶單元",
+      "pos": "n./phr."
+    },
+    {
+      "id": 547,
+      "english": "call",
+      "chinese": "呼叫",
+      "pos": "n./v."
+    },
+    {
+      "id": 548,
+      "english": "optical disc",
+      "chinese": "光碟",
+      "pos": "n./phr."
+    },
+    {
+      "id": 549,
+      "english": "coaxial cable",
+      "chinese": "同軸電纜",
+      "pos": "n./phr."
+    },
+    {
+      "id": 550,
+      "english": "language",
+      "chinese": "語言",
+      "pos": "n."
+    },
+    {
+      "id": 551,
+      "english": "POS",
+      "chinese": "銷售時點（英文簡稱）(全文:Point of Sale)",
+      "pos": "n."
+    },
+    {
+      "id": 552,
+      "english": "database server",
+      "chinese": "資料庫伺服器",
+      "pos": "n./phr."
+    },
+    {
+      "id": 553,
+      "english": "table",
+      "chinese": "表格",
+      "pos": "n."
+    },
+    {
+      "id": 554,
+      "english": "business",
+      "chinese": "企業或商務",
+      "pos": "n."
+    },
+    {
+      "id": 555,
+      "english": "six sigma",
+      "chinese": "六個標準差",
+      "pos": "n./phr."
+    },
+    {
+      "id": 556,
+      "english": "ANSI",
+      "chinese": "美國國家標準協會",
+      "pos": "n."
+    },
+    {
+      "id": 557,
+      "english": "CPU",
+      "chinese": "中央處理單元",
+      "pos": "n."
+    },
+    {
+      "id": 558,
+      "english": "computer-aided manufacturing",
+      "chinese": "電腦輔助製造",
+      "pos": "n./phr."
+    },
+    {
+      "id": 559,
+      "english": "database",
+      "chinese": "資料庫",
+      "pos": "n."
+    },
+    {
+      "id": 560,
+      "english": "WAN",
+      "chinese": "廣域網路（英文簡稱）(全文:Wide Area Network)",
+      "pos": "n."
+    },
+    {
+      "id": 561,
+      "english": "telecommunication software",
+      "chinese": "電信通訊軟體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 562,
+      "english": "client",
+      "chinese": "用戶端",
+      "pos": "n."
+    },
+    {
+      "id": 563,
+      "english": "MB",
+      "chinese": "百萬位元組（縮寫）",
+      "pos": "n."
+    },
+    {
+      "id": 564,
+      "english": "constant",
+      "chinese": "常數",
+      "pos": "adj./n."
+    },
+    {
+      "id": 565,
+      "english": "SQL",
+      "chinese": "結構化查詢語言（縮寫）(全文:Structured Query Language)",
+      "pos": "n."
+    },
+    {
+      "id": 566,
+      "english": "portability",
+      "chinese": "可攜型",
+      "pos": "n."
+    },
+    {
+      "id": 567,
+      "english": "pivot table",
+      "chinese": "樞紐分析表",
+      "pos": "n./phr."
+    },
+    {
+      "id": 568,
+      "english": "scanner",
+      "chinese": "掃描器",
+      "pos": "n."
+    },
+    {
+      "id": 569,
+      "english": "network interface card",
+      "chinese": "網路介面卡（NIC)",
+      "pos": "n./phr."
+    },
+    {
+      "id": 570,
+      "english": "LCD",
+      "chinese": "液晶顯示器",
+      "pos": "n."
+    },
+    {
+      "id": 571,
+      "english": "production",
+      "chinese": "生產",
+      "pos": "n."
+    },
+    {
+      "id": 572,
+      "english": "XML",
+      "chinese": "延伸性標示語言 (全文:eXtensible Markup Language)",
+      "pos": "n."
+    },
+    {
+      "id": 573,
+      "english": "personal information",
+      "chinese": "個人資訊",
+      "pos": "n./phr."
+    },
+    {
+      "id": 574,
+      "english": "Skype",
+      "chinese": "通訊軟體",
+      "pos": "n."
+    },
+    {
+      "id": 575,
+      "english": "satellite",
+      "chinese": "通訊衛星",
+      "pos": "n."
+    },
+    {
+      "id": 576,
+      "english": "module",
+      "chinese": "模組",
+      "pos": "n."
+    },
+    {
+      "id": 577,
+      "english": "mobile wallet",
+      "chinese": "手機錢包",
+      "pos": "n./phr."
+    },
+    {
+      "id": 578,
+      "english": "input unit",
+      "chinese": "輸入單位",
+      "pos": "n./phr."
+    },
+    {
+      "id": 579,
+      "english": "WEP",
+      "chinese": "有線等效加密（協定）（的英文簡稱）(全文:Wired Equivalent Privacy)",
+      "pos": "n."
+    },
+    {
+      "id": 580,
+      "english": "keyboard",
+      "chinese": "鍵盤",
+      "pos": "n."
+    },
+    {
+      "id": 581,
+      "english": "TB",
+      "chinese": "兆位元組 (全文:Terabyte)",
+      "pos": "n."
+    },
+    {
+      "id": 582,
+      "english": "window",
+      "chinese": "視窗",
+      "pos": "n."
+    },
+    {
+      "id": 583,
+      "english": "life cycle",
+      "chinese": "生命週期",
+      "pos": "n./phr."
+    },
+    {
+      "id": 584,
+      "english": "data processing",
+      "chinese": "資料處理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 585,
+      "english": "CTO",
+      "chinese": "科技長",
+      "pos": "n."
+    },
+    {
+      "id": 586,
+      "english": "design",
+      "chinese": "設計",
+      "pos": "n./v."
+    },
+    {
+      "id": 587,
+      "english": "Metcalfe's law",
+      "chinese": "梅特卡夫定律",
+      "pos": "n./phr."
+    },
+    {
+      "id": 588,
+      "english": "Ethernet",
+      "chinese": "乙太網路",
+      "pos": "n."
+    },
+    {
+      "id": 589,
+      "english": "point-to-point protocol",
+      "chinese": "點對點協定",
+      "pos": "n./phr."
+    },
+    {
+      "id": 590,
+      "english": "download",
+      "chinese": "下載",
+      "pos": "n./v."
+    },
+    {
+      "id": 591,
+      "english": "infomediary",
+      "chinese": "資訊中介",
+      "pos": "n."
+    },
+    {
+      "id": 592,
+      "english": "utility",
+      "chinese": "工具程式或公用程式",
+      "pos": "n."
+    },
+    {
+      "id": 593,
+      "english": "patent",
+      "chinese": "專利",
+      "pos": "n."
+    },
+    {
+      "id": 594,
+      "english": "host",
+      "chinese": "主機",
+      "pos": "n."
+    },
+    {
+      "id": 595,
+      "english": "statement",
+      "chinese": "敘述",
+      "pos": "n."
+    },
+    {
+      "id": 596,
+      "english": "bitmap",
+      "chinese": "點陣圖",
+      "pos": "n."
+    },
+    {
+      "id": 597,
+      "english": "processor",
+      "chinese": "處理器",
+      "pos": "n."
+    },
+    {
+      "id": 598,
+      "english": "documentation",
+      "chinese": "使用說明",
+      "pos": "n."
+    },
+    {
+      "id": 599,
+      "english": "mobile network",
+      "chinese": "行動網路",
+      "pos": "n./phr."
+    },
+    {
+      "id": 600,
+      "english": "textbox",
+      "chinese": "文字方塊",
+      "pos": "n."
+    },
+    {
+      "id": 601,
+      "english": "PnP",
+      "chinese": "隨插即用（英文簡稱）(全文:Plug and Play)",
+      "pos": "n."
+    },
+    {
+      "id": 602,
+      "english": "DB",
+      "chinese": "資料庫",
+      "pos": "n."
+    },
+    {
+      "id": 603,
+      "english": "FAT",
+      "chinese": "檔案配置表",
+      "pos": "n."
+    },
+    {
+      "id": 604,
+      "english": "data management",
+      "chinese": "資料管理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 605,
+      "english": "management",
+      "chinese": "管理",
+      "pos": "n."
+    },
+    {
+      "id": 606,
+      "english": "information and communication technology",
+      "chinese": "資訊與網路通訊科技",
+      "pos": "n./phr."
+    },
+    {
+      "id": 607,
+      "english": "digital",
+      "chinese": "數位",
+      "pos": "adj./n."
+    },
+    {
+      "id": 608,
+      "english": "data warehouse",
+      "chinese": "資料倉儲",
+      "pos": "n./phr."
+    },
+    {
+      "id": 609,
+      "english": "serial port",
+      "chinese": "序列埠",
+      "pos": "n./phr."
+    },
+    {
+      "id": 610,
+      "english": "electronic business",
+      "chinese": "電子化企業",
+      "pos": "n./phr."
+    },
+    {
+      "id": 611,
+      "english": "formatted disk",
+      "chinese": "已格式化的磁碟",
+      "pos": "n./phr."
+    },
+    {
+      "id": 612,
+      "english": "output",
+      "chinese": "輸出",
+      "pos": "n."
+    },
+    {
+      "id": 613,
+      "english": "insertion sort",
+      "chinese": "插入排序法",
+      "pos": "n./phr."
+    },
+    {
+      "id": 614,
+      "english": "object-oriented language",
+      "chinese": "物件導向語言",
+      "pos": "n./phr."
+    },
+    {
+      "id": 615,
+      "english": "engineering",
+      "chinese": "工程",
+      "pos": "n."
+    },
+    {
+      "id": 616,
+      "english": "resolution",
+      "chinese": "解析度",
+      "pos": "n."
+    },
+    {
+      "id": 617,
+      "english": "power cord",
+      "chinese": "電源線",
+      "pos": "n./phr."
+    },
+    {
+      "id": 618,
+      "english": "secure digital extended capacity",
+      "chinese": "安全數位延伸高容量（卡）",
+      "pos": "n./phr."
+    },
+    {
+      "id": 619,
+      "english": "file processing",
+      "chinese": "檔案處理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 620,
+      "english": "disruptive technology",
+      "chinese": "破壞性科技",
+      "pos": "n./phr."
+    },
+    {
+      "id": 621,
+      "english": "structure",
+      "chinese": "結構化",
+      "pos": "n."
+    },
+    {
+      "id": 622,
+      "english": "community",
+      "chinese": "社群",
+      "pos": "n."
+    },
+    {
+      "id": 623,
+      "english": "data bus",
+      "chinese": "資料匯流排",
+      "pos": "n./phr."
+    },
+    {
+      "id": 624,
+      "english": "bps",
+      "chinese": "每秒的位元數",
+      "pos": "n."
+    },
+    {
+      "id": 625,
+      "english": "electronic payment services",
+      "chinese": "電子付費服務",
+      "pos": "n./phr."
+    },
+    {
+      "id": 626,
+      "english": "mobile communication",
+      "chinese": "行動通訊",
+      "pos": "n./phr."
+    },
+    {
+      "id": 627,
+      "english": "customer relationship management",
+      "chinese": "顧客關係管理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 628,
+      "english": "byte",
+      "chinese": "位元組",
+      "pos": "n."
+    },
+    {
+      "id": 629,
+      "english": "false",
+      "chinese": "假",
+      "pos": "adj."
+    },
+    {
+      "id": 630,
+      "english": "hypermedia",
+      "chinese": "超媒體",
+      "pos": "n."
+    },
+    {
+      "id": 631,
+      "english": "C2C",
+      "chinese": "個人對個人之間的相互交易",
+      "pos": "n."
+    },
+    {
+      "id": 632,
+      "english": "Lenovo",
+      "chinese": "聯想（電腦品牌）",
+      "pos": "n."
+    },
+    {
+      "id": 633,
+      "english": "CIO",
+      "chinese": "資訊長",
+      "pos": "n."
+    },
+    {
+      "id": 634,
+      "english": "systems specification",
+      "chinese": "系統規格",
+      "pos": "n./phr."
+    },
+    {
+      "id": 635,
+      "english": "word processing",
+      "chinese": "文字處理",
+      "pos": "n./phr."
+    },
+    {
+      "id": 636,
+      "english": "flash ROM",
+      "chinese": "快閃記憶體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 637,
+      "english": "certificate authority",
+      "chinese": "憑證授權",
+      "pos": "n./phr."
+    },
+    {
+      "id": 638,
+      "english": "post office protocol",
+      "chinese": "郵局（收信）協定",
+      "pos": "n./phr."
+    },
+    {
+      "id": 639,
+      "english": "data dictionary",
+      "chinese": "資料字典",
+      "pos": "n./phr."
+    },
+    {
+      "id": 640,
+      "english": "computer software",
+      "chinese": "電腦軟體",
+      "pos": "n./phr."
+    },
+    {
+      "id": 641,
+      "english": "POST",
+      "chinese": "開機自我測試（英文簡稱）(全文:Power-On Self Test)",
+      "pos": "n."
+    },
+    {
+      "id": 642,
+      "english": "DVD",
+      "chinese": "數位多功能影音光碟",
+      "pos": "n."
+    },
+    {
+      "id": 643,
+      "english": "intellectual property",
+      "chinese": "智慧財產",
+      "pos": "n./phr."
+    },
+    {
+      "id": 644,
+      "english": "specification",
+      "chinese": "規格（範）",
+      "pos": "n."
+    },
+    {
+      "id": 645,
+      "english": "relational model",
+      "chinese": "關聯式模型",
+      "pos": "n./phr."
+    }
+  ]
+}

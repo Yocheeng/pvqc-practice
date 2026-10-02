@@ -1,0 +1,646 @@
+﻿id,english,chinese,pos
+1,information,資訊,n.
+2,log off,登出,v./phr.
+3,customization,客製化,n.
+4,distributed,分散式,adj.
+5,visualization,視覺化,n.
+6,back up data,備份資料,v./phr.
+7,Windows,微軟公司開發的作業系統,n.
+8,outsourcing,外包,n.
+9,ES,專家系統,n.
+10,geographic information system,地理資訊系統,n./phr.
+11,method,方法,n.
+12,distributed processing,分散式處理,n./phr.
+13,desktop computer,桌上電腦,n./phr.
+14,SRAM,靜態隨機存取記憶體（英文簡稱）(全文:Static Random Access Memory),n.
+15,telnet,遠端登入,n.
+16,printer,印表機,n.
+17,MAN,都會網路（英文簡稱）,n.
+18,cyber,網路的,adj.
+19,Line,在線（通訊服務）,n.
+20,Nokia,諾基亞,n.
+21,DSS,決策支援系統,n.
+22,data,資料,n.
+23,TCP/IP,傳輸控制協定/網路協定 (全文:Transmission Control Protocol / Internet Protocol),n.
+24,nanosecond,奈秒,n.
+25,replication,複製；同步複寫,n.
+26,digital signal,數位信號,n./phr.
+27,domestic exporter,(國內的）出口商,n./phr.
+28,vector,向量,n.
+29,menu,功能表,n.
+30,key word,關鍵字,n./phr.
+31,hub,集線器,n.
+32,conversion,轉換,n.
+33,switch,交換器,n.
+34,OSI,開放式系統互聯（英文簡稱）(全文:Open Systems Interconnection),n.
+35,autocomplete,自動完成,n.
+36,computer-aided design,電腦輔助設計,n./phr.
+37,logical partition,邏輯分割區,n./phr.
+38,OSI model,開放式系統互聯模式,n./phr.
+39,critical thinking,批判性思考,n./phr.
+40,NIC,網路卡,n.
+41,random access memory,隨機存取記憶體,n./phr.
+42,algorithm,演算法,n.
+43,decryption,解密,n.
+44,GUI,圖形化使用介面,n.
+45,adware,廣告軟體,n.
+46,data integration,資料整合,n./phr.
+47,SET,安全電子交易（英文簡稱）(全文:Secure Electronic Transaction),n.
+48,IS,資訊系統,n.
+49,dashboard,儀錶板,n.
+50,laser printer,雷射印表機,n./phr.
+51,network terminal,網路終端機,n./phr.
+52,OA,辦公室自動化（英文簡稱）(全文:Office Automation),n.
+53,DBA,資料庫管理員,n.
+54,IP,網際網路協定,n.
+55,co-location,主機代管,n./phr.
+56,analog,類比,adj./n.
+57,HTML,超文字標記語言,n.
+58,CRM,顧客關係管理,n.
+59,instant messaging,即時通訊,n./phr.
+60,light emitting diode,發光二極體,n./phr.
+61,bandwidth,頻寬,n.
+62,user name,用戶名稱,n./phr.
+63,project,專案,n./v.
+64,pages per minute,每分鐘列印的頁數,n./phr.
+65,property,財產,n.
+66,sizing handles,尺寸（大小）控點,n./phr.
+67,multiplexer,多工器,n.
+68,OU,輸出單元（英文簡稱）(全文:Output Unit),n.
+69,medium,媒體,adj./n.
+70,e-book,電子書,n.
+71,data flow diagram,資料流程圖,n./phr.
+72,line interactive,在線互動式,adj./phr.
+73,input device,輸入設備,n./phr.
+74,communication,通訊,n.
+75,cache memory,快取記憶體,n./phr.
+76,FTP,檔案傳輸協定,n.
+77,relational database,關聯式資料庫,n./phr.
+78,ASUS,華碩,n.
+79,clone computer,克隆電腦,n./phr.
+80,NAT,網路位址轉換（英文簡稱）(全文:Network Address Translation),n.
+81,normalization,正規化,n.
+82,microsecond,微秒,n.
+83,quick response code,快速反應碼,n./phr.
+84,ASP,應用服務供應商,n.
+85,executive,行政主管,n.
+86,duplication,複製,n.
+87,read-only memory,唯讀記憶體,n./phr.
+88,data-driven,資料導向,n./phr.
+89,authority,權威,n.
+90,digital video disc,數位影音光碟（DVD),n./phr.
+91,content management,內容管理,n./phr.
+92,open standard,開放式標準,adj./phr.
+93,operating system,作業系統,n./phr.
+94,YouTube,一種手機與電腦皆可連線的專門放影片的軟體,n.
+95,Bluetooth,藍牙,n.
+96,debug,除錯；偵錯,v./n.
+97,data center,資訊中心,n./phr.
+98,operation,營運,n.
+99,mouse,滑鼠,n.
+100,node,節點,n.
+101,drill down,向下探究,v./phr.
+102,executable code,可執行碼,n./phr.
+103,central processing unit,中央處理單元,n./phr.
+104,content,內容,n.
+105,flowchart,流程圖,n.
+106,EPS,電子付費服務,n.
+107,ROM,唯讀記憶體（英文簡稱）(全文:Read-Only Memory),n.
+108,record,紀錄,n./v.
+109,spreadsheet software,試算表軟體,n./phr.
+110,network address translation,網路位址轉換,n./phr.
+111,motherboard,主機板,n.
+112,ICT,資訊與網路通訊科技,n.
+113,IM,即時通訊,n.
+114,AI,人工智慧,n.
+115,microphone,麥克風,n.
+116,DNS,網域名稱系統,n.
+117,administrator,管理員,n.
+118,data definition,資料定義,n./phr.
+119,personal computer,個人電腦,n./phr.
+120,online transaction,線上交易,n./phr.
+121,hyperlink,超連結,n.
+122,gigahertz,十億赫茲,n.
+123,diagram,圖表,n.
+124,ERP,企業資源規劃,n.
+125,detection system,偵測系統,n./phr.
+126,gateway,閘道器,n.
+127,core,核心,n.
+128,true,真；正確,adj.
+129,Intel,英特爾（公司名）,n.
+130,telecommunication media,電信通訊媒介,n./phr.
+131,OLTP,線上交易處理（英文簡稱）(全文:Online Transaction Processing),n.
+132,link,連結,n./v.
+133,disruptive,破壞性的,adj.
+134,kilohertz,千赫茲,n.
+135,worm,蠕蟲,n.
+136,firewall,防火牆,n.
+137,SCSI,小型電腦系統介面（英文簡稱）(全文:Small Computer System Interface),n.
+138,laptop,膝上型電腦,n.
+139,HDMI,高清晰度多媒體介面,n.
+140,electronic signature,電子簽章,n./phr.
+141,wireless,無線,adj./n.
+142,disaster,災難,n.
+143,DDoS,分裂式阻斷服務,n.
+144,browser,瀏覽器,n.
+145,function,函數,n.
+146,direct,直接的,adj.
+147,private key,私密金鑰,n./phr.
+148,certificate,憑證,n.
+149,digital content,數位內容,n./phr.
+150,option button,選項按鈕,n./phr.
+151,intangible,無形的,adj.
+152,field,欄位或區域,n.
+153,software,軟體,n.
+154,technology,科技,n.
+155,RFID,無線（電）辨識（英文簡稱）(全文:Radio Frequency Identification),n.
+156,requirement,需求,n.
+157,PC,個人電腦,n.
+158,upload,上傳,n./v.
+159,IEEE,國際電機電子工程協會,n.
+160,ring,環狀,n.
+161,chief information officer,資訊長,n./phr.
+162,GHz,十億赫茲,n.
+163,hypertext markup language,超文字標記語言,n./phr.
+164,pseudo code,虛擬碼,n./phr.
+165,N-tier client-server architecture,多層次主從式架構,n./phr.
+166,VOD,隨選視訊系統（英文簡稱）(全文:Video On Demand),n.
+167,file type,檔案類型,n./phr.
+168,manipulation,處理,n.
+169,computer crime,電腦犯罪,n./phr.
+170,broadcast,廣播,n./v.
+171,open system,開放式系統,adj./phr.
+172,B2G,企業對政府之間的相互交易,n.
+173,patch,(軟體）修補,n./v.
+174,memory,記憶體,n.
+175,VoIP,透過IP做語音傳送（英文簡稱）(全文:Voice over Internet Protocol),n.
+176,quick sort,快速排序法,n./phr.
+177,process,過程；處理,n./v.
+178,label,標籤,n./v.
+179,malicious program,惡意程式,n./phr.
+180,PCI,周邊元件互聯（擴充槽）（英文簡稱）(全文:Peripheral Component Interconnect),n.
+181,autosum,自動加總,n.
+182,hacker,駭客,n.
+183,cache,快取,n.
+184,relationship,關係,n.
+185,open source,開放原始（碼）,adj./phr.
+186,secure electronic transactions,安全電子交易,n./phr.
+187,SDRAM,同步動態隨機存取記憶體（英文簡稱）(全文:Synchronous Dynamic Random Access Memory),n.
+188,computer-assisted instruction,電腦輔助教學,n./phr.
+189,e-mail,電子郵件,n.
+190,Apple,蘋果,n.
+191,DOS,磁片作業系統,n.
+192,jumper,跳線,n.
+193,intelligence,智慧,n.
+194,revenue model,獲利模式,n./phr.
+195,object,物件,n.
+196,compile,編譯,v.
+197,due,應有的,adj.
+198,upstream,上游的,n.
+199,recovery,恢復,n.
+200,data structure,資料結構,n./phr.
+201,data redundancy,資料重複,n./phr.
+202,date,日期,n.
+203,bulletin board system,電子佈告欄系統,n./phr.
+204,plan,計畫,n./v.
+205,KB,千位元組,n.
+206,modem,數據機,n.
+207,deep packet,深層封包,n./phr.
+208,information processing,資訊處理,n./phr.
+209,parameter,參數,n.
+210,internetwork processor,跨網處理器,n./phr.
+211,PPM,每分鐘列印的頁數（英文簡稱）(全文:Pages Per Minute),n.
+212,risk,風險,n./v.
+213,infrastructure as a service,基礎建設即服務,n./phr.
+214,HDD,硬式磁碟機,n.
+215,agent,代理商,n.
+216,parallel transmission,並列傳輸,n./phr.
+217,millennium,千禧年,n.
+218,data management software,資料管理軟體找出或發現資料間的關係或事實,n./phr.
+219,enterprise information portal,企業資訊入口網站,n./phr.
+220,microprocessor,微處理器,n.
+221,ISBN,國際標準書號,n.
+222,autoformat,自動套用格式,n.
+223,DFD,資料流程圖,n.
+224,router,路由器,n.
+225,data transfer rate,資料傳輸率,n./phr.
+226,on-demand,隨需,adj./phr.
+227,smart card,智慧卡,n.
+228,semiconductor memory,半導體記憶體,n./phr.
+229,antivirus software,防毒軟體,n./phr.
+230,notebook,筆電,n.
+231,analysis,分析,n.
+232,base,基底,n.
+233,OLE,物件連結與崁入（英文簡稱）(全文:Object Linking and Embedding),n.
+234,cracker,怪客；破壞者,n.
+235,baseband transmission,基頻傳輸,n./phr.
+236,act,法案,n.
+237,megabyte,百萬位元組,n.
+238,wiki,維基（百科全書）,n.
+239,senior,高階的,adj.
+240,phishing,網路釣魚,n.
+241,portable computer,筆電,n./phr.
+242,GIS,地理資訊系統,n.
+243,Acer,宏碁,n.
+244,broadband transmission,寬頻傳輸,n./phr.
+245,child domain,子網域,n./phr.
+246,batch processing,批次處理,n./phr.
+247,IC,積體電路,n.
+248,digital certificate,數位憑證(認證),n.
+249,download information,下載資料,n./phr.
+250,implementation process,建置流程,n./phr.
+251,DPI,每英吋的點數,n.
+252,liquid crystal display,液晶顯示器,n./phr.
+253,click,按下的聲音,n./v.
+254,THz,兆赫茲（英文簡稱）(全文:Terahertz),n.
+255,weblog,網誌,n.
+256,LED,發光二極體,n.
+257,DRAM,動態隨機存取記憶體,n.
+258,internal modem,內置式數據機,n./phr.
+259,solid state,固態,n.
+260,SDXC,安全數位延伸高容量卡（英文簡稱）(全文:Secure Digital eXtended Capacity),n.
+261,computer vision,電腦視力,n./phr.
+262,control,控制,n./v.
+263,SDLC,系統開發生命週期（英文簡稱）(全文:System Development Life Cycle),n.
+264,referential integrity,參照完整性,n./phr.
+265,infrastructure,基礎建設,n.
+266,portal,入口網站,n.
+267,digital asset,數位資產,n./phr.
+268,chat,聊天,n.
+269,access time,存取時間,n./phr.
+270,electronic commerce,電子商務,n./phr.
+271,process control system,流程控制系統,n./phr.
+272,peripheral,周邊設備,n.
+273,MU,記憶單元,n.
+274,CAI,電腦輔助教學,n.
+275,integrated circuit card,IC卡,n./phr.
+276,gigabyte,十億位元組,n.
+277,wizard,精靈,n.
+278,private,私有的,adj.
+279,IaaS,基礎建設即服務,n.
+280,database management system,資料庫管理系統,n./phr.
+281,home page,首頁,n./phr.
+282,back color,背景顏色,n./phr.
+283,protocol,協定,n.
+284,disk cache,磁碟快取（記憶體）,n./phr.
+285,OCR,光學字元辨識軟體（英文簡稱）(全文:Optical Character Recognition),n.
+286,control unit,控制單元,n./phr.
+287,Microsoft,微軟,n.
+288,shareware,共享軟體,n.
+289,freeware,免費軟體,n.
+290,ALU,算術邏輯單元,n.
+291,e-government,電子化政府,n.
+292,network,網路,n.
+293,e-learning,數位學習,n.
+294,Internet protocol,網際網路協定,n./phr.
+295,business intelligence,商業智慧,n./phr.
+296,webcam,網路攝像機,n.
+297,marketing,行銷,n.
+298,bit,位元,n.
+299,electronic payment system,電子付款系統,n./phr.
+300,hypertext transfer protocol,超文字傳輸協定,n./phr.
+301,primary partition,主要分割區,n./phr.
+302,P2P,點對點對點式（英文簡稱）,n.
+303,double click,按兩下,v./phr.
+304,machine,機器,n.
+305,optimization,最佳化,n.
+306,strategy,策略,n.
+307,information requirement,資訊需求,n./phr.
+308,backbone,骨幹網路,n.
+309,cloud computing,雲端運算,n./phr.
+310,refresh rate,更新率,n.
+311,audio,音訊,adj./n.
+312,programming,程式（設計）,n.
+313,timer,計時器,n.
+314,character,字元,n.
+315,technical feasibility,技術可行性,n./phr.
+316,domain name system,網域名稱系統,n./phr.
+317,domain name,網域名稱,n./phr.
+318,network server,網路伺服器,n./phr.
+319,payment,付費,n.
+320,graphics,圖形,n.
+321,fiber,光纖,n.
+322,online transaction processing,線上交易處理,n./phr.
+323,digital camera,數位相機,n./phr.
+324,secondary storage,次級儲存體,n./phr.
+325,enterprise,企業,n.
+326,antivirus,防毒,n.
+327,NII,國家資訊基礎建設,n.
+328,software resource,軟體資源,n./phr.
+329,cell,儲存格,n.
+330,array,陣列,n.
+331,public key,公開金鑰,n./phr.
+332,downtime,停機時間,n.
+333,TCP,傳輸控制協定（英文簡稱）(全文:Transmission Control Protocol),n.
+334,routing,規劃路徑（網路）,n.
+335,knowledge worker,知識工作者,n./phr.
+336,transistor,電晶體,n.
+337,benefit,效益,n./v.
+338,people resource,人力資源,n./phr.
+339,storage,儲存,n.
+340,nano,奈米,n.
+341,kilobyte,千位元組,n.
+342,recharge battery,可充電式電池,v./phr.
+343,DSL,數位用戶線路,n.
+344,integrated package,整合式套件,n./phr.
+345,unicode,萬國碼,n.
+346,office automation,辦公室自動化,n./phr.
+347,terabyte,兆位元組（TG),n.
+348,secure digital,安全數位（卡）（SD),n./phr.
+349,inform,通知,v.
+350,database administrator,資料庫管理員,n./phr.
+351,model,模型,n.
+352,data mining,資料探勘,n./phr.
+353,primary key,主鍵,n./phr.
+354,desktop,桌面,n.
+355,buffer,緩衝器,n./v.
+356,hypertext,超文件,n.
+357,SaaS,軟體即服務（英文簡稱）(全文:Software as a Service),n.
+358,metadata,定義的資料,n.
+359,telecommunication network,電信通訊網路,n./phr.
+360,microwave,微波,n.
+361,DBMS,資料庫管理系統,n.
+362,forensics,鑑識；辯論術,n.
+363,QR code,快速反應碼（英文簡稱）(全文: quick response code),n./phr.
+364,log on,登入,v./phr.
+365,power supply,電源供應器,n./phr.
+366,terminal,終端機,n.
+367,RAID,獨立磁碟冗餘陣列（縮寫）(全文:Redundant Array of Independent Disks),n.
+368,standby mode,待命模式,n./phr.
+369,computer forensics,電腦鑑識,n./phr.
+370,variable,變數,n.
+371,data conversion,資料轉換,n./phr.
+372,LIFO,後進先出,n.
+373,KHz,千赫茲,n.
+374,entity relationship,實體關係,n./phr.
+375,culture,文化,n.
+376,e-business,電子化企業,n.
+377,CD-R,可錄式光碟,n.
+378,non-repudiation,不可否認性,n.
+379,SATA,串列先進科技附加排線（英文簡稱）(全文:Serial Advanced Technology Attachment),n.
+380,system,系統,n.
+381,star,星狀,n.
+382,confidentiality,機密性,n.
+383,hard disk,硬碟,n./phr.
+384,DoS,阻斷服務,n.
+385,file,檔案,n.
+386,disaster recovery,災難復原,n./phr.
+387,installation,安裝,n.
+388,bridge,橋接器,n.
+389,URL,一致性資源定位器（英文簡稱）(全文:Uniform Resource Locator),n.
+390,power-on self test,開機自我測試,n./phr.
+391,business model,商業模式,n./phr.
+392,executive information system,高階主管資訊系統,n./phr.
+393,program,程式,n./v.
+394,monitor,顯示器,n./v.
+395,online analytical processing,線上分析處理,n./phr.
+396,cost,成本,n./v.
+397,iOS,iPhone手機的作業系統,n.
+398,PPTP,點對點通道協定(全文:Point-to-Point Tunneling Protocol),n.
+399,midrange system,中型系統,n./phr.
+400,server,伺服器,n.
+401,queue,佇列,n.
+402,password,密碼,n.
+403,OLAP,線上分析處理,n.
+404,smartphone,智慧型手機,n.
+405,local area network,區域網路,n./phr.
+406,battery,電池,n.
+407,Samsung,三星,n.
+408,distance instruction,遠距教學,n./phr.
+409,development,開發,n.
+410,catalog,型錄,n.
+411,POP,處理郵件通訊協定（英文簡稱）,n.
+412,knowledge engineer,知識工程師,n./phr.
+413,Internet,網際網路,n.
+414,message box,訊息視窗,n./phr.
+415,font,字型,n.
+416,pad,平板,n.
+417,Hertz,赫茲,n.
+418,data manipulation,資料操縱,n./phr.
+419,downstream data,下流（游）的資料,n./phr.
+420,do it yourself,自己做,v./phr.
+421,broker,仲介商,n./v.
+422,broadband,寬頻,n.
+423,access point,無線基地台,n./phr.
+424,SCM,供應鏈管理（縮寫）(全文:Supply Chain Management),n.
+425,exchange,交易,n./v.
+426,GPS,全球定位系統,n.
+427,serial transmission,串列傳輸,n./phr.
+428,BBS,電子佈告欄系統,n.
+429,hide,隱藏,v.
+430,secure digital high capacity,安全數位高容量（卡）,n./phr.
+431,literacy,素養,n.
+432,projector,投影機,n.
+433,global positioning system,全球定位系統,n./phr.
+434,programming language,程式語言,n./phr.
+435,integrated circuit,積體電路,n./phr.
+436,frame,框架,n.
+437,accounting information system,會計資訊系統,n./phr.
+438,USB,萬用序列匯流排（英文簡稱）(全文:Universal Serial Bus),n.
+439,output unit,輸出單元,n./phr.
+440,linker,連結程式,n.
+441,Internet bank,網路銀行,n./phr.
+442,warehouse,倉儲,n.
+443,FIFO,先進先出,n.
+444,icon,圖示,n.
+445,BIOS,基本輸入輸出系統,n.
+446,biometrics,生物測定學,n.
+447,cell phone,行動電話,n./phr.
+448,auction,拍賣,n.
+449,downstream,下游的,adj.
+450,SD,安全數位（卡）（英文簡稱）(全文:Secure Digital),n.
+451,domain,網域,n.
+452,Linux,一種免費；多用戶；多工的作業系統,n.
+453,audit,審核,n./v.
+454,information system,資訊系統,n./phr.
+455,EFT,電子金融轉帳,n.
+456,upgrade,升級,n./v.
+457,spam,垃圾郵件,n.
+458,client-server LAN,主從式區域網路,n./phr.
+459,sector,磁區,n.
+460,value chain model,價值鏈模型,n./phr.
+461,virus,病毒,n.
+462,distributed processing system,分散式處理系統,n./phr.
+463,presentation,簡報,n.
+464,e-commerce,電子商務,n.
+465,procedure,程序,n.
+466,decision support system,決策支援系統,n./phr.
+467,impact,影響,n./v.
+468,internal code,內碼,n./phr.
+469,data worker,資料工作者,n./phr.
+470,electronic government,電子化政府,n./phr.
+471,virtual,虛擬的,adj.
+472,WWW,全球資訊網（的英文簡稱）(全文:World Wide Web),n.
+473,pharming,網址嫁接；網域欺騙技術,n.
+474,business process and operation,企業流程與營運,n./phr.
+475,computer monitoring,電腦監控,n./phr.
+476,conference call,電話會議,n./phr.
+477,doze mode,休眠模式,n./phr.
+478,pixel,像素,n.
+479,demand,需求,n./v.
+480,management information systems,資訊管理系統,n./phr.
+481,offshoring,境外,n.
+482,sniffer,網路監聽,n.
+483,multicore,多核心的,adj.
+484,millisecond,毫秒,n.
+485,DIY,自己做,n.
+486,transparency,透明度,n.
+487,SDHC,安全數位高容量（卡）（英文簡稱）(全文:Secure Digital High Capacity),n.
+488,all rights reserved,版權所有,phr.
+489,RPM,每分鐘旋轉圈數（英文簡稱）(全文:Revolutions Per Minute),n.
+490,EC,電子商務,n.
+491,information technology,資訊科技,n./phr.
+492,offline,離線,n.
+493,PSTN,公眾電話網路（英文簡稱）(全文:Public Switched Telephone Network),n.
+494,LAN,區域網路,n.
+495,display,顯示器,n./v.
+496,megahertz,百萬赫茲,n.
+497,loader,載入程式,n.
+498,digital divide,數位區隔,n./phr.
+499,cycle,週期；循環,n./v.
+500,compatible,相容的,adj.
+501,ADSL,非對稱數位用戶迴路,n.
+502,input,輸入,n.
+503,computing,運算,n.
+504,integrity,完整性,n.
+505,main memory,主記憶體,n./phr.
+506,swapping,交換,n.
+507,feedback,回饋,n.
+508,Macintosh,麥金塔,n.
+509,marketplace,市集,n.
+510,text,文字,n.
+511,architecture,架構,n.
+512,sort,排序,n./v.
+513,show,顯示,n./v.
+514,distribute,分散,v.
+515,ISO,國際標準組織,n.
+516,image,影像,n.
+517,copyright,版權,n.
+518,slide,投影片,n.
+519,GB,十億位元組,n.
+520,task,工作,n.
+521,data flow,資料流,n./phr.
+522,field name,欄位名稱,n./phr.
+523,network operating system,網路作業系統,n./phr.
+524,CA,認證機構,n.
+525,macro,巨集,n.
+526,EIS,高階主管資訊系統,n.
+527,PDA,個人數位助理（英文簡稱）(全文:Personal Digital Assistant),n.
+528,MHz,百萬赫茲（英文簡稱）,n.
+529,ASCII,美國資訊交換標準碼,n.
+530,modulation,調變,n.
+531,RAM,隨機存取記憶體（英文簡稱）(全文:Random Access Memory),n.
+532,search engine,搜尋引擎,n./phr.
+533,asset,資產,n.
+534,Facebook,臉書,n.
+535,information appliance,資訊家電,n./phr.
+536,blog,部落格,n.
+537,wireless LAN,無線區域網路（LAN),n./phr.
+538,wireless technology,無線科技,n./phr.
+539,bug,瑕疵,n.
+540,datagram,資料包；數據包,n.
+541,Android,安卓,n.
+542,dynamic,動態的,adj.
+543,end users,終端使用者,n./phr.
+544,encryption,加密,n.
+545,radio frequency,無線電射頻（RF),n./phr.
+546,memory unit,記憶單元,n./phr.
+547,call,呼叫,n./v.
+548,optical disc,光碟,n./phr.
+549,coaxial cable,同軸電纜,n./phr.
+550,language,語言,n.
+551,POS,銷售時點（英文簡稱）(全文:Point of Sale),n.
+552,database server,資料庫伺服器,n./phr.
+553,table,表格,n.
+554,business,企業或商務,n.
+555,six sigma,六個標準差,n./phr.
+556,ANSI,美國國家標準協會,n.
+557,CPU,中央處理單元,n.
+558,computer-aided manufacturing,電腦輔助製造,n./phr.
+559,database,資料庫,n.
+560,WAN,廣域網路（英文簡稱）(全文:Wide Area Network),n.
+561,telecommunication software,電信通訊軟體,n./phr.
+562,client,用戶端,n.
+563,MB,百萬位元組（縮寫）,n.
+564,constant,常數,adj./n.
+565,SQL,結構化查詢語言（縮寫）(全文:Structured Query Language),n.
+566,portability,可攜型,n.
+567,pivot table,樞紐分析表,n./phr.
+568,scanner,掃描器,n.
+569,network interface card,網路介面卡（NIC),n./phr.
+570,LCD,液晶顯示器,n.
+571,production,生產,n.
+572,XML,延伸性標示語言 (全文:eXtensible Markup Language),n.
+573,personal information,個人資訊,n./phr.
+574,Skype,通訊軟體,n.
+575,satellite,通訊衛星,n.
+576,module,模組,n.
+577,mobile wallet,手機錢包,n./phr.
+578,input unit,輸入單位,n./phr.
+579,WEP,有線等效加密（協定）（的英文簡稱）(全文:Wired Equivalent Privacy),n.
+580,keyboard,鍵盤,n.
+581,TB,兆位元組 (全文:Terabyte),n.
+582,window,視窗,n.
+583,life cycle,生命週期,n./phr.
+584,data processing,資料處理,n./phr.
+585,CTO,科技長,n.
+586,design,設計,n./v.
+587,Metcalfe's law,梅特卡夫定律,n./phr.
+588,Ethernet,乙太網路,n.
+589,point-to-point protocol,點對點協定,n./phr.
+590,download,下載,n./v.
+591,infomediary,資訊中介,n.
+592,utility,工具程式或公用程式,n.
+593,patent,專利,n.
+594,host,主機,n.
+595,statement,敘述,n.
+596,bitmap,點陣圖,n.
+597,processor,處理器,n.
+598,documentation,使用說明,n.
+599,mobile network,行動網路,n./phr.
+600,textbox,文字方塊,n.
+601,PnP,隨插即用（英文簡稱）(全文:Plug and Play),n.
+602,DB,資料庫,n.
+603,FAT,檔案配置表,n.
+604,data management,資料管理,n./phr.
+605,management,管理,n.
+606,information and communication technology,資訊與網路通訊科技,n./phr.
+607,digital,數位,adj./n.
+608,data warehouse,資料倉儲,n./phr.
+609,serial port,序列埠,n./phr.
+610,electronic business,電子化企業,n./phr.
+611,formatted disk,已格式化的磁碟,n./phr.
+612,output,輸出,n.
+613,insertion sort,插入排序法,n./phr.
+614,object-oriented language,物件導向語言,n./phr.
+615,engineering,工程,n.
+616,resolution,解析度,n.
+617,power cord,電源線,n./phr.
+618,secure digital extended capacity,安全數位延伸高容量（卡）,n./phr.
+619,file processing,檔案處理,n./phr.
+620,disruptive technology,破壞性科技,n./phr.
+621,structure,結構化,n.
+622,community,社群,n.
+623,data bus,資料匯流排,n./phr.
+624,bps,每秒的位元數,n.
+625,electronic payment services,電子付費服務,n./phr.
+626,mobile communication,行動通訊,n./phr.
+627,customer relationship management,顧客關係管理,n./phr.
+628,byte,位元組,n.
+629,false,假,adj.
+630,hypermedia,超媒體,n.
+631,C2C,個人對個人之間的相互交易,n.
+632,Lenovo,聯想（電腦品牌）,n.
+633,CIO,資訊長,n.
+634,systems specification,系統規格,n./phr.
+635,word processing,文字處理,n./phr.
+636,flash ROM,快閃記憶體,n./phr.
+637,certificate authority,憑證授權,n./phr.
+638,post office protocol,郵局（收信）協定,n./phr.
+639,data dictionary,資料字典,n./phr.
+640,computer software,電腦軟體,n./phr.
+641,POST,開機自我測試（英文簡稱）(全文:Power-On Self Test),n.
+642,DVD,數位多功能影音光碟,n.
+643,intellectual property,智慧財產,n./phr.
+644,specification,規格（範）,n.
+645,relational model,關聯式模型,n./phr.
