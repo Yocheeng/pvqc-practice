@@ -4,3 +4,5 @@
 *.jpg
 *.zip
 
+preview-server*.log
+sky-*.png

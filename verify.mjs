@@ -7,7 +7,7 @@ let checks=0;
 function ok(value,message){assert.ok(value,message);checks++;}
 function environment(saved=new Map()){
  const nodes=new Map(),tools=new Map(),events=new Map(),utterances=[];
- const get=id=>{if(!nodes.has(id))nodes.set(id,{innerHTML:'',textContent:'',value:id==='question-limit'?'10':'',disabled:false,classList:{add(){},remove(){},toggle(){}},focus(){},addEventListener(){},querySelector(){return{disabled:false}}});return nodes.get(id);};
+ const get=id=>{if(!nodes.has(id))nodes.set(id,{innerHTML:'',textContent:'',value:id==='question-limit'?'10':'',disabled:false,classList:{add(){},remove(){},toggle(){}},focus(){},events:new Map(),addEventListener(n,f){this.events.set(n,f);},querySelector(){return{disabled:false}}});return nodes.get(id);};
  const document={getElementById:get,querySelectorAll:()=>[],addEventListener:(n,f)=>events.set(n,f),modelContext:{registerTool:t=>tools.set(t.name,t)}};
  const speechSynthesis={cancel:()=>{utterances.length=0;},getVoices:()=>[{lang:'en-US'}],speak:u=>utterances.push(u)};
  const window={PVQC_COURSE:course,speechSynthesis,SpeechSynthesisUtterance:function(text){this.text=text;},addEventListener(){}};
@@ -64,5 +64,37 @@ ok(continuous.get('activity').innerHTML.includes('第 6 關 看英選發音'),'S
 const importing=environment();importing.click({view:'bank'});const original=importing.get('bank-text').value;
 importing.get('bank-text').value='english,chinese\nonly one column';importing.click({action:'import'});
 ok(importing.get('import-error').textContent.length>0,'Invalid import displays error');ok(importing.call('read_practice_state').words===645,'Invalid import preserves bank');
-const report={source_rows:645,case_sensitive_unique:645,chinese_meanings:605,checks,passed:true,scope:'Six-gate behavior and audio sequence with simulated speech engine; browser UI checked separately. Real audio quality and formal exam rules unverified.'};
+// Each biweekly group must cover its exact source range, once per word.
+function selectQuiz(app,index){app.click({view:'quiz'});app.get('quiz-group').value=String(index);app.get('quiz-group').events.get('change')();app.click({action:'start-quiz'});}
+function quizWord(app,pool){const html=app.get('activity').innerHTML;const length=Number(html.match(/共 (\d+) 個字元/)?.[1]);const term=html.match(/<div class="term">([^<]*)<\/div>/)?.[1];return pool.find(w=>w.chinese===term&&w.english.length===length);}
+const quiz=environment();quiz.click({view:'quiz'});
+ok(quiz.get('activity').innerHTML.includes('第 13 組 · 序號 601–645 · 45 個'),'All thirteen sequential groups displayed');
+for(let group=0;group<13;group++){
+ selectQuiz(quiz,group);const pool=course.words.slice(group*50,group*50+50),ids=new Set();
+ ok(quiz.call('read_practice_state').total===pool.length,'Quiz count matches group '+(group+1));
+ ok(quiz.call('read_practice_state').quiz.group===group+1,'Quiz selection preserved');
+ for(let n=0;n<pool.length;n++){
+  const w=quizWord(quiz,pool);ok(!!w,'Quiz prompt belongs to selected group');
+  ok(quiz.call('submit_pvqc_answer',{spelling:w.english}).correct,'In-range answer accepted');
+  const id=Number(quiz.get('feedback').innerHTML.match(/原序號 (\d+)/)?.[1]);ids.add(id);quiz.click({action:'next'});
+ }
+ ok(ids.size===pool.length&&pool.every(w=>ids.has(w.id)),'Every source word appears exactly once');
+ ok(quiz.get('activity').innerHTML.includes('小考練習完成')&&quiz.get('activity').innerHTML.includes(`答對 ${pool.length} / ${pool.length}`),'Quiz result totals correct');
+}
+quiz.click({action:'retry-quiz'});ok(quiz.call('read_practice_state').total===45,'Retry retains last group scope');
+const mixed=environment();selectQuiz(mixed,1);const pool=course.words.slice(50,100);let missedQuiz;
+for(let i=0;i<50;i++){const w=quizWord(mixed,pool);if(i===0){missedQuiz=w;mixed.call('submit_pvqc_answer',{spelling:'<script>wrong</script>'});}else mixed.call('submit_pvqc_answer',{spelling:w.english});mixed.click({action:'next'});}
+ok(mixed.get('activity').innerHTML.includes('答對 49 / 50'),'Mixed quiz score correct');
+ok(mixed.get('activity').innerHTML.includes('&lt;script&gt;wrong&lt;/script&gt;')&&!mixed.get('activity').innerHTML.includes('<script>wrong'),'Wrong input rendered as text');
+ok(mixed.call('read_practice_state').mistakes===1,'Quiz adds spelling mistake');
+mixed.click({action:'review-quiz'});ok(mixed.call('read_practice_state').total===1&&mixed.call('read_practice_state').quiz.review,'Quiz review includes only this attempt mistakes');
+mixed.call('submit_pvqc_answer',{spelling:missedQuiz.english});mixed.click({action:'next'});
+ok(mixed.call('read_practice_state').mistakes===0,'Correct quiz review clears matching spelling mistake');
+mixed.click({action:'retry-quiz'});ok(mixed.call('read_practice_state').total===50&&mixed.call('read_practice_state').quiz.group===2,'Full retry after review restores original 50');
+mixed.click({view:'quiz'});ok(mixed.get('activity').innerHTML.includes('value="1" selected'),'Return preserves selected group');
+const importedQuiz=environment(new Map([['pvqc-computing-v1',JSON.stringify({bank:[...course.words.slice(0,100)].reverse(),source:'reordered',mistakes:[]})]]));
+selectQuiz(importedQuiz,0);ok(!!quizWord(importedQuiz,course.words.slice(0,50)),'Groups use original IDs even with reordered bank');
+const noIds=environment(new Map([['pvqc-computing-v1',JSON.stringify({bank:course.words.slice(0,51).map(({english,chinese})=>({english,chinese})),source:'no IDs',mistakes:[]})]]));
+noIds.click({view:'quiz'});ok(noIds.get('activity').innerHTML.includes('第 51–51 筆 · 1 個'),'Unnumbered import explicitly groups by row order');
+const report={source_rows:645,case_sensitive_unique:645,chinese_meanings:605,checks,passed:true,scope:'Six-gate behavior, audio sequence and sequential biweekly spelling quizzes, including all 645 words, partial final group, scoring, wrong-word review, retry and imported order. Browser UI checked separately; real audio and classroom scoring unverified.'};
 writeFileSync('verification.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));
